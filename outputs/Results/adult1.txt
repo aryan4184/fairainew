@@ -1,0 +1,250 @@
+(venv) (base) ➜  Code python3.10 -m experiments.adultexp
+  0%|                                             | 0/100 [00:00<?, ?it/s]INFO:root:Epoch [0][0/35] Loss 1.3901 | Acc 36.80
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+  1%|▎                                    | 1/100 [00:00<00:49,  1.99it/s]INFO:root:Epoch [1][0/35] Loss 0.9386 | Acc 65.60
+  2%|▋                                    | 2/100 [00:00<00:37,  2.63it/s]INFO:root:Epoch [2][0/35] Loss 0.8876 | Acc 62.60
+  3%|█                                    | 3/100 [00:01<00:33,  2.89it/s]INFO:root:Epoch [3][0/35] Loss 0.8081 | Acc 63.90
+  4%|█▍                                   | 4/100 [00:01<00:31,  3.05it/s]INFO:root:Epoch [4][0/35] Loss 0.8049 | Acc 64.30
+  5%|█▊                                   | 5/100 [00:01<00:29,  3.19it/s]INFO:root:Epoch [5][0/35] Loss 0.7735 | Acc 66.30
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+  6%|██▏                                  | 6/100 [00:01<00:28,  3.31it/s]INFO:root:Epoch [6][0/35] Loss 0.7866 | Acc 65.40
+  7%|██▌                                  | 7/100 [00:02<00:29,  3.15it/s]INFO:root:Epoch [7][0/35] Loss 0.7795 | Acc 65.50
+  8%|██▉                                  | 8/100 [00:02<00:28,  3.26it/s]INFO:root:Epoch [8][0/35] Loss 0.7956 | Acc 64.10
+  9%|███▎                                 | 9/100 [00:02<00:27,  3.28it/s]INFO:root:Epoch [9][0/35] Loss 0.7790 | Acc 65.50
+ 10%|███▌                                | 10/100 [00:03<00:27,  3.29it/s]INFO:root:Epoch [10][0/35] Loss 0.7619 | Acc 65.40
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 11%|███▉                                | 11/100 [00:03<00:26,  3.33it/s]INFO:root:Epoch [11][0/35] Loss 0.7932 | Acc 64.10
+ 12%|████▎                               | 12/100 [00:03<00:26,  3.37it/s]INFO:root:Epoch [12][0/35] Loss 0.7927 | Acc 65.90
+ 13%|████▋                               | 13/100 [00:04<00:25,  3.39it/s]INFO:root:Epoch [13][0/35] Loss 0.7322 | Acc 67.20
+ 14%|█████                               | 14/100 [00:04<00:25,  3.37it/s]INFO:root:Epoch [14][0/35] Loss 0.7600 | Acc 65.00
+ 15%|█████▍                              | 15/100 [00:04<00:24,  3.41it/s]INFO:root:Epoch [15][0/35] Loss 0.7751 | Acc 64.70
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 16%|█████▊                              | 16/100 [00:04<00:24,  3.45it/s]INFO:root:Epoch [16][0/35] Loss 0.7517 | Acc 67.20
+ 17%|██████                              | 17/100 [00:05<00:23,  3.46it/s]INFO:root:Epoch [17][0/35] Loss 0.7956 | Acc 64.30
+ 18%|██████▍                             | 18/100 [00:05<00:23,  3.49it/s]INFO:root:Epoch [18][0/35] Loss 0.7760 | Acc 64.80
+ 19%|██████▊                             | 19/100 [00:05<00:23,  3.51it/s]INFO:root:Epoch [19][0/35] Loss 0.7717 | Acc 65.50
+ 20%|███████▏                            | 20/100 [00:06<00:23,  3.46it/s]INFO:root:Epoch [20][0/35] Loss 0.7599 | Acc 65.50
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 21%|███████▌                            | 21/100 [00:06<00:22,  3.47it/s]INFO:root:Epoch [21][0/35] Loss 0.7714 | Acc 64.40
+ 22%|███████▉                            | 22/100 [00:06<00:22,  3.50it/s]INFO:root:Epoch [22][0/35] Loss 0.7834 | Acc 65.40
+ 23%|████████▎                           | 23/100 [00:06<00:22,  3.48it/s]INFO:root:Epoch [23][0/35] Loss 0.7575 | Acc 64.80
+ 24%|████████▋                           | 24/100 [00:07<00:21,  3.51it/s]INFO:root:Epoch [24][0/35] Loss 0.7634 | Acc 64.30
+ 25%|█████████                           | 25/100 [00:07<00:21,  3.51it/s]INFO:root:Epoch [25][0/35] Loss 0.7683 | Acc 66.50
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 26%|█████████▎                          | 26/100 [00:07<00:21,  3.51it/s]INFO:root:Epoch [26][0/35] Loss 0.7673 | Acc 65.70
+ 27%|█████████▋                          | 27/100 [00:08<00:20,  3.52it/s]INFO:root:Epoch [27][0/35] Loss 0.7524 | Acc 66.60
+ 28%|██████████                          | 28/100 [00:08<00:20,  3.50it/s]INFO:root:Epoch [28][0/35] Loss 0.7515 | Acc 65.10
+ 29%|██████████▍                         | 29/100 [00:08<00:20,  3.51it/s]INFO:root:Epoch [29][0/35] Loss 0.7859 | Acc 63.70
+ 30%|██████████▊                         | 30/100 [00:08<00:19,  3.52it/s]INFO:root:Epoch [30][0/35] Loss 0.7815 | Acc 64.60
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 31%|███████████▏                        | 31/100 [00:09<00:19,  3.53it/s]INFO:root:Epoch [31][0/35] Loss 0.7723 | Acc 63.20
+ 32%|███████████▌                        | 32/100 [00:09<00:19,  3.53it/s]INFO:root:Epoch [32][0/35] Loss 0.7687 | Acc 64.10
+ 33%|███████████▉                        | 33/100 [00:09<00:18,  3.53it/s]INFO:root:Epoch [33][0/35] Loss 0.7405 | Acc 66.10
+ 34%|████████████▏                       | 34/100 [00:10<00:18,  3.50it/s]INFO:root:Epoch [34][0/35] Loss 0.7280 | Acc 67.40
+ 35%|████████████▌                       | 35/100 [00:10<00:18,  3.45it/s]INFO:root:Epoch [35][0/35] Loss 0.7509 | Acc 66.20
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 36%|████████████▉                       | 36/100 [00:10<00:18,  3.45it/s]INFO:root:Epoch [36][0/35] Loss 0.8005 | Acc 62.90
+ 37%|█████████████▎                      | 37/100 [00:10<00:18,  3.47it/s]INFO:root:Epoch [37][0/35] Loss 0.7408 | Acc 66.00
+ 38%|█████████████▋                      | 38/100 [00:11<00:17,  3.46it/s]INFO:root:Epoch [38][0/35] Loss 0.7747 | Acc 64.20
+ 39%|██████████████                      | 39/100 [00:11<00:17,  3.47it/s]INFO:root:Epoch [39][0/35] Loss 0.7655 | Acc 65.40
+ 40%|██████████████▍                     | 40/100 [00:11<00:17,  3.48it/s]INFO:root:Epoch [40][0/35] Loss 0.7382 | Acc 65.90
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 41%|██████████████▊                     | 41/100 [00:12<00:16,  3.49it/s]INFO:root:Epoch [41][0/35] Loss 0.7687 | Acc 64.60
+ 42%|███████████████                     | 42/100 [00:12<00:16,  3.50it/s]INFO:root:Epoch [42][0/35] Loss 0.7438 | Acc 67.70
+ 43%|███████████████▍                    | 43/100 [00:12<00:16,  3.46it/s]INFO:root:Epoch [43][0/35] Loss 0.7642 | Acc 64.40
+ 44%|███████████████▊                    | 44/100 [00:12<00:16,  3.46it/s]INFO:root:Epoch [44][0/35] Loss 0.7985 | Acc 62.70
+ 45%|████████████████▏                   | 45/100 [00:13<00:15,  3.51it/s]INFO:root:Epoch [45][0/35] Loss 0.7301 | Acc 67.40
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 46%|████████████████▌                   | 46/100 [00:13<00:15,  3.52it/s]INFO:root:Epoch [46][0/35] Loss 0.7835 | Acc 63.90
+ 47%|████████████████▉                   | 47/100 [00:13<00:15,  3.50it/s]INFO:root:Epoch [47][0/35] Loss 0.7881 | Acc 65.70
+ 48%|█████████████████▎                  | 48/100 [00:14<00:14,  3.52it/s]INFO:root:Epoch [48][0/35] Loss 0.7565 | Acc 65.30
+ 49%|█████████████████▋                  | 49/100 [00:14<00:14,  3.53it/s]INFO:root:Epoch [49][0/35] Loss 0.7731 | Acc 66.00
+ 50%|██████████████████                  | 50/100 [00:14<00:14,  3.53it/s]INFO:root:Epoch [50][0/35] Loss 0.7218 | Acc 67.40
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 51%|██████████████████▎                 | 51/100 [00:14<00:13,  3.51it/s]INFO:root:Epoch [51][0/35] Loss 0.7439 | Acc 64.30
+ 52%|██████████████████▋                 | 52/100 [00:15<00:13,  3.49it/s]INFO:root:Epoch [52][0/35] Loss 0.7619 | Acc 65.50
+ 53%|███████████████████                 | 53/100 [00:15<00:13,  3.51it/s]INFO:root:Epoch [53][0/35] Loss 0.7652 | Acc 64.10
+ 54%|███████████████████▍                | 54/100 [00:15<00:13,  3.53it/s]INFO:root:Epoch [54][0/35] Loss 0.7659 | Acc 66.80
+ 55%|███████████████████▊                | 55/100 [00:16<00:12,  3.53it/s]INFO:root:Epoch [55][0/35] Loss 0.7449 | Acc 67.00
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 56%|████████████████████▏               | 56/100 [00:16<00:12,  3.54it/s]INFO:root:Epoch [56][0/35] Loss 0.7499 | Acc 64.80
+ 57%|████████████████████▌               | 57/100 [00:16<00:12,  3.55it/s]INFO:root:Epoch [57][0/35] Loss 0.7293 | Acc 68.30
+ 58%|████████████████████▉               | 58/100 [00:16<00:11,  3.53it/s]INFO:root:Epoch [58][0/35] Loss 0.7829 | Acc 64.70
+ 59%|█████████████████████▏              | 59/100 [00:17<00:11,  3.55it/s]INFO:root:Epoch [59][0/35] Loss 0.7752 | Acc 63.80
+ 60%|█████████████████████▌              | 60/100 [00:17<00:11,  3.53it/s]INFO:root:Epoch [60][0/35] Loss 0.7823 | Acc 64.50
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 61%|█████████████████████▉              | 61/100 [00:17<00:11,  3.51it/s]INFO:root:Epoch [61][0/35] Loss 0.7872 | Acc 64.40
+ 62%|██████████████████████▎             | 62/100 [00:18<00:10,  3.52it/s]INFO:root:Epoch [62][0/35] Loss 0.7978 | Acc 62.20
+ 63%|██████████████████████▋             | 63/100 [00:18<00:10,  3.55it/s]INFO:root:Epoch [63][0/35] Loss 0.7741 | Acc 65.50
+ 64%|███████████████████████             | 64/100 [00:18<00:10,  3.54it/s]INFO:root:Epoch [64][0/35] Loss 0.7194 | Acc 68.50
+ 65%|███████████████████████▍            | 65/100 [00:18<00:09,  3.50it/s]INFO:root:Epoch [65][0/35] Loss 0.7243 | Acc 66.50
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 66%|███████████████████████▊            | 66/100 [00:19<00:09,  3.48it/s]INFO:root:Epoch [66][0/35] Loss 0.7803 | Acc 64.30
+ 67%|████████████████████████            | 67/100 [00:19<00:09,  3.46it/s]INFO:root:Epoch [67][0/35] Loss 0.7411 | Acc 67.20
+ 68%|████████████████████████▍           | 68/100 [00:19<00:09,  3.43it/s]INFO:root:Epoch [68][0/35] Loss 0.7889 | Acc 62.40
+ 69%|████████████████████████▊           | 69/100 [00:20<00:08,  3.45it/s]INFO:root:Epoch [69][0/35] Loss 0.7841 | Acc 63.50
+ 70%|█████████████████████████▏          | 70/100 [00:20<00:08,  3.47it/s]INFO:root:Epoch [70][0/35] Loss 0.7586 | Acc 65.10
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 71%|█████████████████████████▌          | 71/100 [00:20<00:08,  3.49it/s]INFO:root:Epoch [71][0/35] Loss 0.7678 | Acc 64.80
+ 72%|█████████████████████████▉          | 72/100 [00:20<00:08,  3.49it/s]INFO:root:Epoch [72][0/35] Loss 0.7675 | Acc 65.70
+ 73%|██████████████████████████▎         | 73/100 [00:21<00:08,  3.36it/s]INFO:root:Epoch [73][0/35] Loss 0.7117 | Acc 68.00
+ 74%|██████████████████████████▋         | 74/100 [00:21<00:07,  3.40it/s]INFO:root:Epoch [74][0/35] Loss 0.8213 | Acc 62.50
+ 75%|███████████████████████████         | 75/100 [00:21<00:07,  3.42it/s]INFO:root:Epoch [75][0/35] Loss 0.7776 | Acc 64.10
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 76%|███████████████████████████▎        | 76/100 [00:22<00:06,  3.44it/s]INFO:root:Epoch [76][0/35] Loss 0.7865 | Acc 65.80
+ 77%|███████████████████████████▋        | 77/100 [00:22<00:06,  3.48it/s]INFO:root:Epoch [77][0/35] Loss 0.7617 | Acc 64.70
+ 78%|████████████████████████████        | 78/100 [00:22<00:06,  3.50it/s]INFO:root:Epoch [78][0/35] Loss 0.8088 | Acc 62.70
+ 79%|████████████████████████████▍       | 79/100 [00:22<00:05,  3.52it/s]INFO:root:Epoch [79][0/35] Loss 0.7673 | Acc 65.50
+ 80%|████████████████████████████▊       | 80/100 [00:23<00:05,  3.41it/s]INFO:root:Epoch [80][0/35] Loss 0.7476 | Acc 65.10
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 81%|█████████████████████████████▏      | 81/100 [00:23<00:05,  3.36it/s]INFO:root:Epoch [81][0/35] Loss 0.7715 | Acc 65.80
+ 82%|█████████████████████████████▌      | 82/100 [00:23<00:05,  3.37it/s]INFO:root:Epoch [82][0/35] Loss 0.7292 | Acc 65.50
+ 83%|█████████████████████████████▉      | 83/100 [00:24<00:05,  3.40it/s]INFO:root:Epoch [83][0/35] Loss 0.8014 | Acc 62.10
+ 84%|██████████████████████████████▏     | 84/100 [00:24<00:04,  3.40it/s]INFO:root:Epoch [84][0/35] Loss 0.7680 | Acc 65.40
+ 85%|██████████████████████████████▌     | 85/100 [00:24<00:04,  3.22it/s]INFO:root:Epoch [85][0/35] Loss 0.7573 | Acc 64.50
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 86%|██████████████████████████████▉     | 86/100 [00:25<00:04,  3.31it/s]INFO:root:Epoch [86][0/35] Loss 0.7792 | Acc 65.80
+ 87%|███████████████████████████████▎    | 87/100 [00:25<00:03,  3.38it/s]INFO:root:Epoch [87][0/35] Loss 0.7579 | Acc 64.90
+ 88%|███████████████████████████████▋    | 88/100 [00:25<00:03,  3.45it/s]INFO:root:Epoch [88][0/35] Loss 0.7446 | Acc 64.00
+ 89%|████████████████████████████████    | 89/100 [00:25<00:03,  3.49it/s]INFO:root:Epoch [89][0/35] Loss 0.7466 | Acc 66.40
+ 90%|████████████████████████████████▍   | 90/100 [00:26<00:02,  3.50it/s]INFO:root:Epoch [90][0/35] Loss 0.7768 | Acc 63.60
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 91%|████████████████████████████████▊   | 91/100 [00:26<00:02,  3.53it/s]INFO:root:Epoch [91][0/35] Loss 0.7624 | Acc 64.30
+ 92%|█████████████████████████████████   | 92/100 [00:26<00:02,  3.55it/s]INFO:root:Epoch [92][0/35] Loss 0.7490 | Acc 66.30
+ 93%|█████████████████████████████████▍  | 93/100 [00:27<00:01,  3.57it/s]INFO:root:Epoch [93][0/35] Loss 0.7555 | Acc 66.00
+ 94%|█████████████████████████████████▊  | 94/100 [00:27<00:01,  3.58it/s]INFO:root:Epoch [94][0/35] Loss 0.7375 | Acc 67.40
+ 95%|██████████████████████████████████▏ | 95/100 [00:27<00:01,  3.58it/s]INFO:root:Epoch [95][0/35] Loss 0.7727 | Acc 65.00
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/lib/_function_base_impl.py:552: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis, **keepdims_kw)
+/Users/aryan/Code/FairnessTheises/Code/venv/lib/python3.10/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+INFO:root:{'classifier_all_acc': nan}
+ 96%|██████████████████████████████████▌ | 96/100 [00:27<00:01,  3.58it/s]INFO:root:Epoch [96][0/35] Loss 0.7279 | Acc 66.60
+ 97%|██████████████████████████████████▉ | 97/100 [00:28<00:00,  3.59it/s]INFO:root:Epoch [97][0/35] Loss 0.7777 | Acc 66.10
+ 98%|███████████████████████████████████▎| 98/100 [00:28<00:00,  3.61it/s]INFO:root:Epoch [98][0/35] Loss 0.7958 | Acc 64.30
+ 99%|███████████████████████████████████▋| 99/100 [00:28<00:00,  3.59it/s]INFO:root:Epoch [99][0/35] Loss 0.7828 | Acc 63.20
+100%|███████████████████████████████████| 100/100 [00:28<00:00,  3.45it/s]
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8731867103416003
+Class 0 | Demographic 0 | FPR : 0.36556169429097607
+Class 0 | Demographic 0 | TNR : 0.6344383057090239
+Class 0 | Demographic 0 | FNR : 0.12681328965839964
+Class 0 | Demographic 1 | TPR : 0.8231240428790199
+Class 0 | Demographic 1 | FPR : 0.18668631785802015
+Class 0 | Demographic 1 | TNR : 0.8133136821419799
+Class 0 | Demographic 1 | FNR : 0.1768759571209801
+model_demographic_parity_difference_c0 : 0.34557779917638026
+human_demographic_parity_difference_c0 : 0.12998188567701963
+system_demographic_parity_c0 : 0.2667076738627038
+model_equalized_odds_difference_c0 : 0.35732190089991056
+human_equalized_odds_difference_c0 : 0.0026986459949162045
+system_equalized_odds_difference_c0 : 0.17887537643295592
+Class 1 | Demographic 0 | TPR : 0.5549132947976878
+Class 1 | Demographic 0 | FPR : 0.11068702290076336
+Class 1 | Demographic 0 | TNR : 0.8893129770992366
+Class 1 | Demographic 0 | FNR : 0.44508670520231214
+Class 1 | Demographic 1 | TPR : 0.6816126601356444
+Class 1 | Demographic 1 | FPR : 0.16133035492678083
+Class 1 | Demographic 1 | TNR : 0.8386696450732192
+Class 1 | Demographic 1 | FNR : 0.3183873398643557
+model_demographic_parity_difference_c1 : 0.27212989980319235
+human_demographic_parity_difference_c1 : 0.05316758304549141
+system_demographic_parity_c1 : 0.13803850439213253
+model_equalized_odds_difference_c1 : 0.3092215480178246
+human_equalized_odds_difference_c1 : 0.01562968731152073
+system_equalized_odds_difference_c1 : 0.12669936533795656
+Class 2 | Demographic 0 | TPR : 0.49321266968325794
+Class 2 | Demographic 0 | FPR : 0.03664223850766156
+Class 2 | Demographic 0 | TNR : 0.9633577614923384
+Class 2 | Demographic 0 | FNR : 0.5067873303167421
+Class 2 | Demographic 1 | TPR : 0.6563161609033169
+Class 2 | Demographic 1 | FPR : 0.07292062286365363
+Class 2 | Demographic 1 | TNR : 0.9270793771363464
+Class 2 | Demographic 1 | FNR : 0.34368383909668315
+model_demographic_parity_difference_c2 : 0.07344789937318788
+human_demographic_parity_difference_c2 : 0.07681430263152825
+system_demographic_parity_c2 : 0.12866916947057122
+model_equalized_odds_difference_c2 : 0.08593133795508323
+human_equalized_odds_difference_c2 : 0.010142371220806579
+system_equalized_odds_difference_c2 : 0.16310349122005896
+deferral rate : 0.863517060367454
+model accuracy : 0.6493034524530588
+human accuracy : 0.6517262265293762
+combined accuracy : 0.7413688673531194

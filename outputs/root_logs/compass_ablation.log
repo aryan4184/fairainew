@@ -1,0 +1,166 @@
+INFO:root:Using device: CPU
+INFO:root:Loading Broward data
+INFO:root:train size:  634
+INFO:root:val size: 90
+INFO:root:test size:  183
+INFO:root:Running experiment for K = 2
+  0%|          | 0/50 [00:00<?, ?it/s] 14%|█▍        | 7/50 [00:00<00:00, 69.02it/s] 80%|████████  | 40/50 [00:00<00:00, 218.20it/s]100%|██████████| 50/50 [00:00<00:00, 167.50it/s]
+INFO:root:Using k = 2 for k-NN
+INFO:root:K=2, r=0.00 done.
+INFO:root:K=2, r=0.20 done.
+INFO:root:K=2, r=0.40 done.
+INFO:root:K=2, r=0.60 done.
+INFO:root:K=2, r=0.80 done.
+INFO:root:K=2, r=1.00 done.
+INFO:root:K=2, r=1.20 done.
+INFO:root:K=2, r=1.40 done.
+INFO:root:K=2, r=1.60 done.
+INFO:root:K=2, r=1.80 done.
+INFO:root:K=2, r=2.00 done.
+INFO:root:K=2, r=4.00 done.
+INFO:root:K=2, r=6.00 done.
+INFO:root:K=2, r=8.00 done.
+INFO:root:K=2, r=10.00 done.
+INFO:root:K=2, r=12.00 done.
+INFO:root:K=2, r=14.00 done.
+INFO:root:K=2, r=16.00 done.
+INFO:root:K=2, r=18.00 done.
+INFO:root:K=2, r=20.00 done.
+INFO:root:K=2, r=30.00 done.
+INFO:root:K=2, r=40.00 done.
+INFO:root:K=2, r=50.00 done.
+INFO:root:K=2, r=60.00 done.
+INFO:root:K=2, r=70.00 done.
+INFO:root:K=2, r=80.00 done.
+INFO:root:K=2, r=90.00 done.
+INFO:root:K=2, r=100.00 done.
+INFO:root:Running experiment for K = 5
+  0%|          | 0/50 [00:00<?, ?it/s] 64%|██████▍   | 32/50 [00:00<00:00, 315.17it/s]100%|██████████| 50/50 [00:00<00:00, 315.64it/s]
+INFO:root:Using k = 5 for k-NN
+INFO:root:K=5, r=0.00 done.
+INFO:root:K=5, r=0.20 done.
+INFO:root:K=5, r=0.40 done.
+INFO:root:K=5, r=0.60 done.
+INFO:root:K=5, r=0.80 done.
+INFO:root:K=5, r=1.00 done.
+INFO:root:K=5, r=1.20 done.
+INFO:root:K=5, r=1.40 done.
+INFO:root:K=5, r=1.60 done.
+INFO:root:K=5, r=1.80 done.
+INFO:root:K=5, r=2.00 done.
+INFO:root:K=5, r=4.00 done.
+INFO:root:K=5, r=6.00 done.
+INFO:root:K=5, r=8.00 done.
+INFO:root:K=5, r=10.00 done.
+INFO:root:K=5, r=12.00 done.
+INFO:root:K=5, r=14.00 done.
+INFO:root:K=5, r=16.00 done.
+INFO:root:K=5, r=18.00 done.
+INFO:root:K=5, r=20.00 done.
+INFO:root:K=5, r=30.00 done.
+INFO:root:K=5, r=40.00 done.
+INFO:root:K=5, r=50.00 done.
+INFO:root:K=5, r=60.00 done.
+INFO:root:K=5, r=70.00 done.
+INFO:root:K=5, r=80.00 done.
+INFO:root:K=5, r=90.00 done.
+INFO:root:K=5, r=100.00 done.
+INFO:root:Running experiment for K = 10
+  0%|          | 0/50 [00:00<?, ?it/s] 66%|██████▌   | 33/50 [00:00<00:00, 329.41it/s]100%|██████████| 50/50 [00:00<00:00, 227.02it/s]
+INFO:root:Using k = 10 for k-NN
+INFO:root:K=10, r=0.00 done.
+INFO:root:K=10, r=0.20 done.
+INFO:root:K=10, r=0.40 done.
+INFO:root:K=10, r=0.60 done.
+INFO:root:K=10, r=0.80 done.
+INFO:root:K=10, r=1.00 done.
+INFO:root:K=10, r=1.20 done.
+INFO:root:K=10, r=1.40 done.
+INFO:root:K=10, r=1.60 done.
+INFO:root:K=10, r=1.80 done.
+INFO:root:K=10, r=2.00 done.
+INFO:root:K=10, r=4.00 done.
+INFO:root:K=10, r=6.00 done.
+INFO:root:K=10, r=8.00 done.
+INFO:root:K=10, r=10.00 done.
+INFO:root:K=10, r=12.00 done.
+INFO:root:K=10, r=14.00 done.
+INFO:root:K=10, r=16.00 done.
+INFO:root:K=10, r=18.00 done.
+INFO:root:K=10, r=20.00 done.
+INFO:root:K=10, r=30.00 done.
+INFO:root:K=10, r=40.00 done.
+INFO:root:K=10, r=50.00 done.
+INFO:root:K=10, r=60.00 done.
+INFO:root:K=10, r=70.00 done.
+INFO:root:K=10, r=80.00 done.
+INFO:root:K=10, r=90.00 done.
+INFO:root:K=10, r=100.00 done.
+INFO:root:Running experiment for K = 20
+  0%|          | 0/50 [00:00<?, ?it/s] 60%|██████    | 30/50 [00:00<00:00, 299.06it/s]100%|██████████| 50/50 [00:00<00:00, 288.91it/s]
+INFO:root:Using k = 20 for k-NN
+INFO:root:K=20, r=0.00 done.
+INFO:root:K=20, r=0.20 done.
+INFO:root:K=20, r=0.40 done.
+INFO:root:K=20, r=0.60 done.
+INFO:root:K=20, r=0.80 done.
+INFO:root:K=20, r=1.00 done.
+INFO:root:K=20, r=1.20 done.
+INFO:root:K=20, r=1.40 done.
+INFO:root:K=20, r=1.60 done.
+INFO:root:K=20, r=1.80 done.
+INFO:root:K=20, r=2.00 done.
+INFO:root:K=20, r=4.00 done.
+INFO:root:K=20, r=6.00 done.
+INFO:root:K=20, r=8.00 done.
+INFO:root:K=20, r=10.00 done.
+INFO:root:K=20, r=12.00 done.
+INFO:root:K=20, r=14.00 done.
+INFO:root:K=20, r=16.00 done.
+INFO:root:K=20, r=18.00 done.
+INFO:root:K=20, r=20.00 done.
+INFO:root:K=20, r=30.00 done.
+INFO:root:K=20, r=40.00 done.
+INFO:root:K=20, r=50.00 done.
+INFO:root:K=20, r=60.00 done.
+INFO:root:K=20, r=70.00 done.
+INFO:root:K=20, r=80.00 done.
+INFO:root:K=20, r=90.00 done.
+INFO:root:K=20, r=100.00 done.
+INFO:root:Running experiment for K = 30
+  0%|          | 0/50 [00:00<?, ?it/s] 54%|█████▍    | 27/50 [00:00<00:00, 191.41it/s]100%|██████████| 50/50 [00:00<00:00, 236.64it/s]
+INFO:root:Using k = 30 for k-NN
+INFO:root:K=30, r=0.00 done.
+INFO:root:K=30, r=0.20 done.
+INFO:root:K=30, r=0.40 done.
+INFO:root:K=30, r=0.60 done.
+INFO:root:K=30, r=0.80 done.
+INFO:root:K=30, r=1.00 done.
+INFO:root:K=30, r=1.20 done.
+INFO:root:K=30, r=1.40 done.
+INFO:root:K=30, r=1.60 done.
+INFO:root:K=30, r=1.80 done.
+INFO:root:K=30, r=2.00 done.
+INFO:root:K=30, r=4.00 done.
+INFO:root:K=30, r=6.00 done.
+INFO:root:K=30, r=8.00 done.
+INFO:root:K=30, r=10.00 done.
+INFO:root:K=30, r=12.00 done.
+INFO:root:K=30, r=14.00 done.
+INFO:root:K=30, r=16.00 done.
+INFO:root:K=30, r=18.00 done.
+INFO:root:K=30, r=20.00 done.
+INFO:root:K=30, r=30.00 done.
+INFO:root:K=30, r=40.00 done.
+INFO:root:K=30, r=50.00 done.
+INFO:root:K=30, r=60.00 done.
+INFO:root:K=30, r=70.00 done.
+INFO:root:K=30, r=80.00 done.
+INFO:root:K=30, r=90.00 done.
+INFO:root:K=30, r=100.00 done.
+INFO:root:Saved plots and CSV for K=2
+INFO:root:Saved plots and CSV for K=5
+INFO:root:Saved plots and CSV for K=10
+INFO:root:Saved plots and CSV for K=20
+INFO:root:Saved plots and CSV for K=30
+INFO:root:All experiments completed successfully.

@@ -1,0 +1,357 @@
+Loading Broward/COMPAS Dataset...
+Loading Broward data
+train size:  634
+val size: 90
+test size:  183
+Running Exp A: Low Deferral (fc=3.0)...
+Using k = 9 for k-NN
+
+--- Metrics for Low Deferral ---
+Class 0 | Demographic 0 | TPR : 0.9574468085106383
+Class 0 | Demographic 0 | FPR : 0.7333333333333333
+Class 0 | Demographic 0 | TNR : 0.26666666666666666
+Class 0 | Demographic 0 | FNR : 0.0425531914893617
+Class 0 | Demographic 1 | TPR : 0.5777777777777777
+Class 0 | Demographic 1 | FPR : 0.3442622950819672
+Class 0 | Demographic 1 | TNR : 0.6557377049180327
+Class 0 | Demographic 1 | FNR : 0.4222222222222222
+model_demographic_parity_difference_c0 : 0.43506493506493504
+human_demographic_parity_difference_c0 : 0.054888507718696355
+system_demographic_parity_c0 : 0.42673364371477573
+model_equalized_odds_difference_c0 : 0.48961748633879787
+human_equalized_odds_difference_c0 : 0.12950819672131147
+system_equalized_odds_difference_c0 : 0.3890710382513661
+Class 1 | Demographic 0 | TPR : 0.26666666666666666
+Class 1 | Demographic 0 | FPR : 0.0425531914893617
+Class 1 | Demographic 0 | TNR : 0.9574468085106383
+Class 1 | Demographic 0 | FNR : 0.7333333333333333
+Class 1 | Demographic 1 | TPR : 0.6557377049180327
+Class 1 | Demographic 1 | FPR : 0.4222222222222222
+Class 1 | Demographic 1 | TNR : 0.5777777777777777
+Class 1 | Demographic 1 | FNR : 0.3442622950819672
+model_demographic_parity_difference_c1 : 0.43506493506493504
+human_demographic_parity_difference_c1 : 0.05488850771869641
+system_demographic_parity_c1 : 0.4267336437147758
+model_equalized_odds_difference_c1 : 0.48961748633879787
+human_equalized_odds_difference_c1 : 0.12950819672131153
+system_equalized_odds_difference_c1 : 0.3890710382513661
+deferral rate : 0.2185792349726776
+model accuracy : 0.644808743169399
+human accuracy : 0.825136612021858
+combined accuracy : 0.6502732240437158
+accuracy_group_0 : 0.6493506493506493
+accuracy_group_1 : 0.6415094339622641
+accuracy_gap : 0.007841215388385225
+Running Exp A: Med Deferral (fc=8.0)...
+Using k = 9 for k-NN
+
+--- Metrics for Med Deferral ---
+Class 0 | Demographic 0 | TPR : 0.8723404255319149
+Class 0 | Demographic 0 | FPR : 0.43333333333333335
+Class 0 | Demographic 0 | TNR : 0.5666666666666667
+Class 0 | Demographic 0 | FNR : 0.1276595744680851
+Class 0 | Demographic 1 | TPR : 0.5555555555555556
+Class 0 | Demographic 1 | FPR : 0.19672131147540983
+Class 0 | Demographic 1 | TNR : 0.8032786885245902
+Class 0 | Demographic 1 | FNR : 0.4444444444444444
+model_demographic_parity_difference_c0 : 0.5434942416074491
+human_demographic_parity_difference_c0 : 0.054888507718696355
+system_demographic_parity_c0 : 0.3522420975251164
+model_equalized_odds_difference_c0 : 0.5377049180327869
+human_equalized_odds_difference_c0 : 0.12950819672131147
+system_equalized_odds_difference_c0 : 0.31678486997635935
+Class 1 | Demographic 0 | TPR : 0.5666666666666667
+Class 1 | Demographic 0 | FPR : 0.1276595744680851
+Class 1 | Demographic 0 | TNR : 0.8723404255319149
+Class 1 | Demographic 0 | FNR : 0.43333333333333335
+Class 1 | Demographic 1 | TPR : 0.8032786885245902
+Class 1 | Demographic 1 | FPR : 0.4444444444444444
+Class 1 | Demographic 1 | TNR : 0.5555555555555556
+Class 1 | Demographic 1 | FNR : 0.19672131147540983
+model_demographic_parity_difference_c1 : 0.5434942416074491
+human_demographic_parity_difference_c1 : 0.05488850771869641
+system_demographic_parity_c1 : 0.35224209752511637
+model_equalized_odds_difference_c1 : 0.5377049180327869
+human_equalized_odds_difference_c1 : 0.12950819672131153
+system_equalized_odds_difference_c1 : 0.31678486997635935
+deferral rate : 0.5300546448087432
+model accuracy : 0.6284153005464481
+human accuracy : 0.825136612021858
+combined accuracy : 0.7213114754098361
+accuracy_group_0 : 0.6493506493506493
+accuracy_group_1 : 0.6132075471698113
+accuracy_gap : 0.03614310218083805
+Running Exp A: High Deferral (fc=20.0)...
+Using k = 9 for k-NN
+
+--- Metrics for High Deferral ---
+Class 0 | Demographic 0 | TPR : 0.851063829787234
+Class 0 | Demographic 0 | FPR : 0.23333333333333334
+Class 0 | Demographic 0 | TNR : 0.7666666666666667
+Class 0 | Demographic 0 | FNR : 0.14893617021276595
+Class 0 | Demographic 1 | TPR : 0.7555555555555555
+Class 0 | Demographic 1 | FPR : 0.2786885245901639
+Class 0 | Demographic 1 | TNR : 0.7213114754098361
+Class 0 | Demographic 1 | FNR : 0.24444444444444444
+model_demographic_parity_difference_c0 : 0.40088213673119333
+human_demographic_parity_difference_c0 : 0.054888507718696355
+system_demographic_parity_c0 : 0.12925753491791225
+model_equalized_odds_difference_c0 : 0.5065573770491804
+human_equalized_odds_difference_c0 : 0.12950819672131147
+system_equalized_odds_difference_c0 : 0.09550827423167851
+Class 1 | Demographic 0 | TPR : 0.7666666666666667
+Class 1 | Demographic 0 | FPR : 0.14893617021276595
+Class 1 | Demographic 0 | TNR : 0.851063829787234
+Class 1 | Demographic 0 | FNR : 0.23333333333333334
+Class 1 | Demographic 1 | TPR : 0.7213114754098361
+Class 1 | Demographic 1 | FPR : 0.24444444444444444
+Class 1 | Demographic 1 | TNR : 0.7555555555555555
+Class 1 | Demographic 1 | FNR : 0.2786885245901639
+model_demographic_parity_difference_c1 : 0.40088213673119333
+human_demographic_parity_difference_c1 : 0.05488850771869641
+system_demographic_parity_c1 : 0.12925753491791225
+model_equalized_odds_difference_c1 : 0.5065573770491804
+human_equalized_odds_difference_c1 : 0.12950819672131153
+system_equalized_odds_difference_c1 : 0.09550827423167849
+deferral rate : 0.819672131147541
+model accuracy : 0.6557377049180327
+human accuracy : 0.825136612021858
+combined accuracy : 0.7704918032786885
+accuracy_group_0 : 0.6363636363636364
+accuracy_group_1 : 0.6698113207547169
+accuracy_gap : 0.03344768439108059
+Running Exp B: Push Defer...
+Using k = 9 for k-NN
+
+--- Metrics for Push Defer ---
+Class 0 | Demographic 0 | TPR : 0.851063829787234
+Class 0 | Demographic 0 | FPR : 0.23333333333333334
+Class 0 | Demographic 0 | TNR : 0.7666666666666667
+Class 0 | Demographic 0 | FNR : 0.14893617021276595
+Class 0 | Demographic 1 | TPR : 0.7777777777777778
+Class 0 | Demographic 1 | FPR : 0.21311475409836064
+Class 0 | Demographic 1 | TNR : 0.7868852459016393
+Class 0 | Demographic 1 | FNR : 0.2222222222222222
+model_demographic_parity_difference_c0 : 0.5305072286204362
+human_demographic_parity_difference_c0 : 0.054888507718696355
+system_demographic_parity_c0 : 0.15755942171036508
+model_equalized_odds_difference_c0 : 0.5207650273224045
+human_equalized_odds_difference_c0 : 0.12950819672131147
+system_equalized_odds_difference_c0 : 0.07328605200945626
+Class 1 | Demographic 0 | TPR : 0.7666666666666667
+Class 1 | Demographic 0 | FPR : 0.14893617021276595
+Class 1 | Demographic 0 | TNR : 0.851063829787234
+Class 1 | Demographic 0 | FNR : 0.23333333333333334
+Class 1 | Demographic 1 | TPR : 0.7868852459016393
+Class 1 | Demographic 1 | FPR : 0.2222222222222222
+Class 1 | Demographic 1 | TNR : 0.7777777777777778
+Class 1 | Demographic 1 | FNR : 0.21311475409836064
+model_demographic_parity_difference_c1 : 0.5305072286204362
+human_demographic_parity_difference_c1 : 0.05488850771869641
+system_demographic_parity_c1 : 0.15755942171036508
+model_equalized_odds_difference_c1 : 0.5207650273224043
+human_equalized_odds_difference_c1 : 0.12950819672131153
+system_equalized_odds_difference_c1 : 0.07328605200945626
+deferral rate : 0.8306010928961749
+model accuracy : 0.644808743169399
+human accuracy : 0.825136612021858
+combined accuracy : 0.7978142076502732
+accuracy_group_0 : 0.6623376623376623
+accuracy_group_1 : 0.6320754716981132
+accuracy_gap : 0.030262190639549158
+Running Exp B: Balanced...
+Using k = 9 for k-NN
+
+--- Metrics for Balanced ---
+Class 0 | Demographic 0 | TPR : 0.8936170212765957
+Class 0 | Demographic 0 | FPR : 0.36666666666666664
+Class 0 | Demographic 0 | TNR : 0.6333333333333333
+Class 0 | Demographic 0 | FNR : 0.10638297872340426
+Class 0 | Demographic 1 | TPR : 0.6
+Class 0 | Demographic 1 | FPR : 0.11475409836065574
+Class 0 | Demographic 1 | TNR : 0.8852459016393442
+Class 0 | Demographic 1 | FNR : 0.4
+model_demographic_parity_difference_c0 : 0.548149963244303
+human_demographic_parity_difference_c0 : 0.054888507718696355
+system_demographic_parity_c0 : 0.36755697133055626
+model_equalized_odds_difference_c0 : 0.5530054644808743
+human_equalized_odds_difference_c0 : 0.12950819672131147
+system_equalized_odds_difference_c0 : 0.2936170212765957
+Class 1 | Demographic 0 | TPR : 0.6333333333333333
+Class 1 | Demographic 0 | FPR : 0.10638297872340426
+Class 1 | Demographic 0 | TNR : 0.8936170212765957
+Class 1 | Demographic 0 | FNR : 0.36666666666666664
+Class 1 | Demographic 1 | TPR : 0.8852459016393442
+Class 1 | Demographic 1 | FPR : 0.4
+Class 1 | Demographic 1 | TNR : 0.6
+Class 1 | Demographic 1 | FNR : 0.11475409836065574
+model_demographic_parity_difference_c1 : 0.5481499632443028
+human_demographic_parity_difference_c1 : 0.05488850771869641
+system_demographic_parity_c1 : 0.3675569713305562
+model_equalized_odds_difference_c1 : 0.5530054644808744
+human_equalized_odds_difference_c1 : 0.12950819672131153
+system_equalized_odds_difference_c1 : 0.2936170212765958
+deferral rate : 0.5573770491803278
+model accuracy : 0.6502732240437158
+human accuracy : 0.825136612021858
+combined accuracy : 0.7759562841530054
+accuracy_group_0 : 0.6493506493506493
+accuracy_group_1 : 0.6509433962264151
+accuracy_gap : 0.001592746875765716
+Running Exp B: Push Model...
+Using k = 9 for k-NN
+
+--- Metrics for Push Model ---
+Class 0 | Demographic 0 | TPR : 0.9148936170212766
+Class 0 | Demographic 0 | FPR : 0.7333333333333333
+Class 0 | Demographic 0 | TNR : 0.26666666666666666
+Class 0 | Demographic 0 | FNR : 0.0851063829787234
+Class 0 | Demographic 1 | TPR : 0.4444444444444444
+Class 0 | Demographic 1 | FPR : 0.22950819672131148
+Class 0 | Demographic 1 | TNR : 0.7704918032786885
+Class 0 | Demographic 1 | FNR : 0.5555555555555556
+model_demographic_parity_difference_c0 : 0.5234011271747121
+human_demographic_parity_difference_c0 : 0.054888507718696355
+system_demographic_parity_c0 : 0.5234011271747121
+model_equalized_odds_difference_c0 : 0.5038251366120218
+human_equalized_odds_difference_c0 : 0.12950819672131147
+system_equalized_odds_difference_c0 : 0.5038251366120218
+Class 1 | Demographic 0 | TPR : 0.26666666666666666
+Class 1 | Demographic 0 | FPR : 0.0851063829787234
+Class 1 | Demographic 0 | TNR : 0.9148936170212766
+Class 1 | Demographic 0 | FNR : 0.7333333333333333
+Class 1 | Demographic 1 | TPR : 0.7704918032786885
+Class 1 | Demographic 1 | FPR : 0.5555555555555556
+Class 1 | Demographic 1 | TNR : 0.4444444444444444
+Class 1 | Demographic 1 | FNR : 0.22950819672131148
+model_demographic_parity_difference_c1 : 0.5234011271747121
+human_demographic_parity_difference_c1 : 0.05488850771869641
+system_demographic_parity_c1 : 0.5234011271747121
+model_equalized_odds_difference_c1 : 0.5038251366120219
+human_equalized_odds_difference_c1 : 0.12950819672131153
+system_equalized_odds_difference_c1 : 0.5038251366120219
+deferral rate : 0.0
+model accuracy : 0.644808743169399
+human accuracy : 0.825136612021858
+combined accuracy : 0.644808743169399
+accuracy_group_0 : 0.6623376623376623
+accuracy_group_1 : 0.6320754716981132
+accuracy_gap : 0.030262190639549158
+Exp C Debug: X_train shape: (634, 9), y_train shape: (634,)
+Exp C Debug: X_test_np shape: (183, 9)
+Running Exp C: k=1...
+Using k = 9 for k-NN
+
+--- Metrics for k=1 ---
+Class 0 | Demographic 0 | TPR : 0.8723404255319149
+Class 0 | Demographic 0 | FPR : 0.6666666666666666
+Class 0 | Demographic 0 | TNR : 0.3333333333333333
+Class 0 | Demographic 0 | FNR : 0.1276595744680851
+Class 0 | Demographic 1 | TPR : 0.5333333333333333
+Class 0 | Demographic 1 | FPR : 0.26229508196721313
+Class 0 | Demographic 1 | TNR : 0.7377049180327869
+Class 0 | Demographic 1 | FNR : 0.4666666666666667
+model_demographic_parity_difference_c0 : 0.5529282038716001
+human_demographic_parity_difference_c0 : 0.23548149963244303
+system_demographic_parity_c0 : 0.4148493016417545
+model_equalized_odds_difference_c0 : 0.5540983606557377
+human_equalized_odds_difference_c0 : 0.23879781420765028
+system_equalized_odds_difference_c0 : 0.4043715846994535
+Class 1 | Demographic 0 | TPR : 0.3333333333333333
+Class 1 | Demographic 0 | FPR : 0.1276595744680851
+Class 1 | Demographic 0 | TNR : 0.8723404255319149
+Class 1 | Demographic 0 | FNR : 0.6666666666666666
+Class 1 | Demographic 1 | TPR : 0.7377049180327869
+Class 1 | Demographic 1 | FPR : 0.4666666666666667
+Class 1 | Demographic 1 | TNR : 0.5333333333333333
+Class 1 | Demographic 1 | FNR : 0.26229508196721313
+model_demographic_parity_difference_c1 : 0.5529282038716
+human_demographic_parity_difference_c1 : 0.23548149963244303
+system_demographic_parity_c1 : 0.41484930164175443
+model_equalized_odds_difference_c1 : 0.5540983606557377
+human_equalized_odds_difference_c1 : 0.23879781420765023
+system_equalized_odds_difference_c1 : 0.4043715846994536
+deferral rate : 0.7978142076502732
+model accuracy : 0.6338797814207651
+human accuracy : 0.644808743169399
+combined accuracy : 0.6557377049180327
+accuracy_group_0 : 0.6493506493506493
+accuracy_group_1 : 0.6226415094339622
+accuracy_gap : 0.026709139916687108
+Running Exp C: k=15...
+Using k = 9 for k-NN
+
+--- Metrics for k=15 ---
+Class 0 | Demographic 0 | TPR : 0.8723404255319149
+Class 0 | Demographic 0 | FPR : 0.7666666666666667
+Class 0 | Demographic 0 | TNR : 0.23333333333333334
+Class 0 | Demographic 0 | FNR : 0.1276595744680851
+Class 0 | Demographic 1 | TPR : 0.5333333333333333
+Class 0 | Demographic 1 | FPR : 0.26229508196721313
+Class 0 | Demographic 1 | TNR : 0.7377049180327869
+Class 0 | Demographic 1 | FNR : 0.4666666666666667
+model_demographic_parity_difference_c0 : 0.5540308747855918
+human_demographic_parity_difference_c0 : 0.4160744915461897
+system_demographic_parity_c0 : 0.45381034060279346
+model_equalized_odds_difference_c0 : 0.5524590163934426
+human_equalized_odds_difference_c0 : 0.45519125683060113
+system_equalized_odds_difference_c0 : 0.5043715846994536
+Class 1 | Demographic 0 | TPR : 0.23333333333333334
+Class 1 | Demographic 0 | FPR : 0.1276595744680851
+Class 1 | Demographic 0 | TNR : 0.8723404255319149
+Class 1 | Demographic 0 | FNR : 0.7666666666666667
+Class 1 | Demographic 1 | TPR : 0.7377049180327869
+Class 1 | Demographic 1 | FPR : 0.4666666666666667
+Class 1 | Demographic 1 | TNR : 0.5333333333333333
+Class 1 | Demographic 1 | FNR : 0.26229508196721313
+model_demographic_parity_difference_c1 : 0.5540308747855918
+human_demographic_parity_difference_c1 : 0.41607449154618964
+system_demographic_parity_c1 : 0.4538103406027934
+model_equalized_odds_difference_c1 : 0.5524590163934426
+human_equalized_odds_difference_c1 : 0.4551912568306011
+system_equalized_odds_difference_c1 : 0.5043715846994536
+deferral rate : 0.8579234972677595
+model accuracy : 0.6666666666666666
+human accuracy : 0.6284153005464481
+combined accuracy : 0.639344262295082
+accuracy_group_0 : 0.6623376623376623
+accuracy_group_1 : 0.6698113207547169
+accuracy_gap : 0.007473658417054607
+
+================================================================================
+(A) DEFERRAL RATE SENSITIVITY
+================================================================================
+Condition                 | LHS      | RHS      | Tightness  | Holds | Defer%   |
+--------------------------------------------------------------------------------
+Low Deferral              | 0.0657   | 0.4750   | 0.1383     | True  | 0.2186   | Target fc=3.0
+Med Deferral              | 0.0551   | 0.3867   | 0.1426     | True  | 0.5301   | Target fc=8.0
+High Deferral             | 0.0823   | 0.1166   | 0.7061     | True  | 0.8197   | Target fc=20.0
+
+================================================================================
+DETAILED METRICS (ACC / EOD)
+--------------------------------------------------------------------------------
+Condition                 | Model           | Human           | System         
+                          | Acc / EOD       | Acc / EOD       | Acc / EOD      
+--------------------------------------------------------------------------------
+Low Deferral              | 0.645 / 0.490 | 0.825 / 0.130 | 0.650 / 0.389
+Med Deferral              | 0.628 / 0.538 | 0.825 / 0.130 | 0.721 / 0.317
+High Deferral             | 0.656 / 0.507 | 0.825 / 0.130 | 0.770 / 0.096
+
+================================================================================
+(B) HUMAN COST VS DEFERRAL COST TRADEOFF
+================================================================================
+Condition                 | LHS      | RHS      | Tightness  | Holds | Defer%   | Params (HC/FC)
+--------------------------------------------------------------------------------
+Push Defer                | 0.0352   | 0.0895   | 0.3930     | True  | 0.8306   | hc=0.1, fc=15.0
+Balanced                  | 0.0281   | 0.3584   | 0.0783     | True  | 0.5574   | hc=1.0, fc=8.0
+Push Model                | 0.0303   | 0.6151   | 0.0492     | True  | 0.0000   | hc=10.0, fc=4.0
+
+================================================================================
+(C) k-NN HUMAN ORACLE SENSITIVITY
+================================================================================
+k Value                   | LHS      | RHS      | Tightness  | Holds | Defer%   | Human Acc
+--------------------------------------------------------------------------------
+k=1                       | 0.0114   | 0.4936   | 0.0231     | True  | 0.7978   | H_Acc=0.645
+k=15                      | 0.0276   | 0.6157   | 0.0448     | True  | 0.8579   | H_Acc=0.628
+
+Report saved to /Users/aryan/Code/FairnessTheises/Code/nt/compass_sensitivity.log

@@ -1,0 +1,58 @@
+human preds shape  (17349,)
+class probs shape:  (17349, 4)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+
+
+Fairness Metrics for cost optimized combination: 
+Class 0 | Demographic 0 | TPR : 0.6432748538011696
+Class 0 | Demographic 0 | FPR : 0.028541774779449924
+Class 0 | Demographic 0 | TNR : 0.97145822522055
+Class 0 | Demographic 0 | FNR : 0.3567251461988304
+Class 0 | Demographic 1 | TPR : 0.40350877192982454
+Class 0 | Demographic 1 | FPR : 0.01348396501457726
+Class 0 | Demographic 1 | TNR : 0.9865160349854227
+Class 0 | Demographic 1 | FNR : 0.5964912280701754
+model_demographic_parity_difference_c0 : 0.03955081349760944
+human_demographic_parity_difference_c0 : 0.024137753907383555
+system_demographic_parity_c0 : 0.049605042224225016
+model_equalized_odds_difference_c0 : 0.19005847953216373
+human_equalized_odds_difference_c0 : 0.023391812865497075
+system_equalized_odds_difference_c0 : 0.23976608187134502
+Class 1 | Demographic 0 | TPR : 0.9316309719934102
+Class 1 | Demographic 0 | FPR : 0.1074660633484163
+Class 1 | Demographic 0 | TNR : 0.8925339366515838
+Class 1 | Demographic 0 | FNR : 0.06836902800658978
+Class 1 | Demographic 1 | TPR : 0.9767175572519083
+Class 1 | Demographic 1 | FPR : 0.36554621848739494
+Class 1 | Demographic 1 | TNR : 0.634453781512605
+Class 1 | Demographic 1 | FNR : 0.023282442748091603
+model_demographic_parity_difference_c1 : 0.30779822297352744
+human_demographic_parity_difference_c1 : 0.30027931563333665
+system_demographic_parity_c1 : 0.341456190406939
+model_equalized_odds_difference_c1 : 0.3547188106011635
+human_equalized_odds_difference_c1 : 0.07110536522301228
+system_equalized_odds_difference_c1 : 0.25808015513897864
+Class 2 | Demographic 0 | TPR : 0.9284712482468443
+Class 2 | Demographic 0 | FPR : 0.032490974729241874
+Class 2 | Demographic 0 | TNR : 0.9675090252707581
+Class 2 | Demographic 0 | FNR : 0.07152875175315568
+Class 2 | Demographic 1 | TPR : 0.8145161290322581
+Class 2 | Demographic 1 | FPR : 0.010241404535479151
+Class 2 | Demographic 1 | TNR : 0.9897585954645208
+Class 2 | Demographic 1 | FNR : 0.18548387096774194
+model_demographic_parity_difference_c2 : 0.26824740947591796
+human_demographic_parity_difference_c2 : 0.27614156172595317
+system_demographic_parity_c2 : 0.2918511481827139
+model_equalized_odds_difference_c2 : 0.21072931276297335
+human_equalized_odds_difference_c2 : 0.03295932678821878
+system_equalized_odds_difference_c2 : 0.11395511921458623
+deferral rate : 0.4525827280064568
+model accuracy : 0.8771186440677966
+human accuracy : 0.9146489104116223
+combined accuracy : 0.9299838579499596
+100%|███████████████████████████████████████████████████████████████████| 100/100 [00:10<00:00,  9.65it/s]
+human preds shape  (17349,)
+class probs shape:  (17349, 4)

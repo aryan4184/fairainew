@@ -1,0 +1,1713 @@
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8755264389330838
+Class 0 | Demographic 0 | FPR : 0.27255985267034993
+Class 0 | Demographic 0 | TNR : 0.7274401473296501
+Class 0 | Demographic 0 | FNR : 0.12447356106691623
+Class 0 | Demographic 1 | TPR : 0.7580398162327718
+Class 0 | Demographic 1 | FPR : 0.15205109309751905
+Class 0 | Demographic 1 | TNR : 0.8479489069024809
+Class 0 | Demographic 1 | FNR : 0.24196018376722817
+model_demographic_parity_difference_c0 : 0.28262596539192597
+human_demographic_parity_difference_c0 : 0.12042294393009545
+system_demographic_parity_c0 : 0.28345774695000664
+model_equalized_odds_difference_c0 : 0.13185772971740556
+human_equalized_odds_difference_c0 : 0.012138999226778746
+system_equalized_odds_difference_c0 : 0.12050875957283089
+Class 1 | Demographic 0 | TPR : 0.6242774566473989
+Class 1 | Demographic 0 | FPR : 0.131891433418151
+Class 1 | Demographic 0 | TNR : 0.868108566581849
+Class 1 | Demographic 0 | FNR : 0.37572254335260113
+Class 1 | Demographic 1 | TPR : 0.674076865109269
+Class 1 | Demographic 1 | FPR : 0.24025812856788284
+Class 1 | Demographic 1 | TNR : 0.7597418714321171
+Class 1 | Demographic 1 | FNR : 0.325923134890731
+model_demographic_parity_difference_c1 : 0.14933575631418816
+human_demographic_parity_difference_c1 : 0.04317074424253814
+system_demographic_parity_c1 : 0.14849956421536087
+model_equalized_odds_difference_c1 : 0.11775347559708652
+human_equalized_odds_difference_c1 : 0.03002721364256722
+system_equalized_odds_difference_c1 : 0.10836669514973185
+Class 2 | Demographic 0 | TPR : 0.6018099547511312
+Class 2 | Demographic 0 | FPR : 0.023984010659560292
+Class 2 | Demographic 0 | TNR : 0.9760159893404398
+Class 2 | Demographic 0 | FNR : 0.39819004524886875
+Class 2 | Demographic 1 | TPR : 0.6612561750176429
+Class 2 | Demographic 1 | FPR : 0.07406000759589822
+Class 2 | Demographic 1 | TNR : 0.9259399924041017
+Class 2 | Demographic 1 | FNR : 0.3387438249823571
+model_demographic_parity_difference_c2 : 0.1332902090777378
+human_demographic_parity_difference_c2 : 0.07725219968755731
+system_demographic_parity_c2 : 0.13495818273464577
+model_equalized_odds_difference_c2 : 0.07181701191415168
+human_equalized_odds_difference_c2 : 0.04246751629374401
+system_equalized_odds_difference_c2 : 0.059446220266511696
+deferral rate : 0.301231576822128
+model accuracy : 0.6979608318190995
+human accuracy : 0.6474863718958207
+combined accuracy : 0.7318796688875429
+accuracy_group_0 : 0.7607818802358052
+accuracy_group_1 : 0.6676642226544964
+accuracy_gap : 0.09311765758130874
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8750584932147871
+Class 0 | Demographic 0 | FPR : 0.28084714548802947
+Class 0 | Demographic 0 | TNR : 0.7191528545119705
+Class 0 | Demographic 0 | FNR : 0.12494150678521292
+Class 0 | Demographic 1 | TPR : 0.7626339969372129
+Class 0 | Demographic 1 | FPR : 0.1508228936379268
+Class 0 | Demographic 1 | TNR : 0.8491771063620732
+Class 0 | Demographic 1 | FNR : 0.23736600306278713
+model_demographic_parity_difference_c0 : 0.28750225924146405
+human_demographic_parity_difference_c0 : 0.12042294393009545
+system_demographic_parity_c0 : 0.28489247264153184
+model_equalized_odds_difference_c0 : 0.13934771073120616
+human_equalized_odds_difference_c0 : 0.012138999226778746
+system_equalized_odds_difference_c0 : 0.13002425185010266
+Class 1 | Demographic 0 | TPR : 0.6115606936416185
+Class 1 | Demographic 0 | FPR : 0.13019508057675996
+Class 1 | Demographic 0 | TNR : 0.86980491942324
+Class 1 | Demographic 0 | FNR : 0.3884393063583815
+Class 1 | Demographic 1 | TPR : 0.6729464958553127
+Class 1 | Demographic 1 | FPR : 0.23405311491685282
+Class 1 | Demographic 1 | TNR : 0.7659468850831472
+Class 1 | Demographic 1 | FNR : 0.32705350414468726
+model_demographic_parity_difference_c1 : 0.15328124035919632
+human_demographic_parity_difference_c1 : 0.04317074424253814
+system_demographic_parity_c1 : 0.14896387808912537
+model_equalized_odds_difference_c1 : 0.12426921359583223
+human_equalized_odds_difference_c1 : 0.03002721364256722
+system_equalized_odds_difference_c1 : 0.10385803434009286
+Class 2 | Demographic 0 | TPR : 0.6108597285067874
+Class 2 | Demographic 0 | FPR : 0.025649566955363093
+Class 2 | Demographic 0 | TNR : 0.9743504330446369
+Class 2 | Demographic 0 | FNR : 0.3891402714932127
+Class 2 | Demographic 1 | TPR : 0.6690190543401553
+Class 2 | Demographic 1 | FPR : 0.0759589821496392
+Class 2 | Demographic 1 | TNR : 0.9240410178503609
+Class 2 | Demographic 1 | FNR : 0.33098094565984476
+model_demographic_parity_difference_c2 : 0.13422101888226778
+human_demographic_parity_difference_c2 : 0.07725219968755731
+system_demographic_parity_c2 : 0.1359285945524065
+model_equalized_odds_difference_c2 : 0.058661740381712874
+human_equalized_odds_difference_c2 : 0.04246751629374401
+system_equalized_odds_difference_c2 : 0.058159325833367914
+deferral rate : 1.0
+model accuracy : 0.696042802342015
+human accuracy : 0.6474863718958207
+combined accuracy : 0.7328891580860085
+accuracy_group_0 : 0.7620229599751784
+accuracy_group_1 : 0.6642226544964837
+accuracy_gap : 0.09780030547869478
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8175011698642958
+Class 0 | Demographic 0 | FPR : 0.2532228360957643
+Class 0 | Demographic 0 | TNR : 0.7467771639042358
+Class 0 | Demographic 0 | FNR : 0.18249883013570425
+Class 0 | Demographic 1 | TPR : 0.7565084226646248
+Class 0 | Demographic 1 | FPR : 0.18398427904691722
+Class 0 | Demographic 1 | TNR : 0.8160157209530828
+Class 0 | Demographic 1 | FNR : 0.2434915773353752
+model_demographic_parity_difference_c0 : 0.280537690415231
+human_demographic_parity_difference_c0 : 0.12042294393009545
+system_demographic_parity_c0 : 0.21961479822774255
+model_equalized_odds_difference_c0 : 0.13363895821543298
+human_equalized_odds_difference_c0 : 0.012138999226778746
+system_equalized_odds_difference_c0 : 0.06923855704884707
+Class 1 | Demographic 0 | TPR : 0.5942196531791908
+Class 1 | Demographic 0 | FPR : 0.14249363867684478
+Class 1 | Demographic 0 | TNR : 0.8575063613231552
+Class 1 | Demographic 0 | FNR : 0.40578034682080927
+Class 1 | Demographic 1 | TPR : 0.6186887716654107
+Class 1 | Demographic 1 | FPR : 0.17671878878133532
+Class 1 | Demographic 1 | TNR : 0.8232812112186647
+Class 1 | Demographic 1 | FNR : 0.3813112283345893
+model_demographic_parity_difference_c1 : 0.14754674813384216
+human_demographic_parity_difference_c1 : 0.04317074424253814
+system_demographic_parity_c1 : 0.08850757468589171
+model_equalized_odds_difference_c1 : 0.11476338530387517
+human_equalized_odds_difference_c1 : 0.03002721364256722
+system_equalized_odds_difference_c1 : 0.03422515010449054
+Class 2 | Demographic 0 | TPR : 0.6199095022624435
+Class 2 | Demographic 0 | FPR : 0.07128580946035976
+Class 2 | Demographic 0 | TNR : 0.9287141905396402
+Class 2 | Demographic 0 | FNR : 0.38009049773755654
+Class 2 | Demographic 1 | TPR : 0.6937191249117854
+Class 2 | Demographic 1 | FPR : 0.11792631978731485
+Class 2 | Demographic 1 | TNR : 0.8820736802126852
+Class 2 | Demographic 1 | FNR : 0.30628087508821455
+model_demographic_parity_difference_c2 : 0.13299094228138886
+human_demographic_parity_difference_c2 : 0.07725219968755731
+system_demographic_parity_c2 : 0.13110722354185084
+model_equalized_odds_difference_c2 : 0.08186309103740297
+human_equalized_odds_difference_c2 : 0.04246751629374401
+system_equalized_odds_difference_c2 : 0.07380962264934199
+deferral rate : 0.4168180900464365
+model accuracy : 0.6951342620633959
+human accuracy : 0.6474863718958207
+combined accuracy : 0.7065414900060569
+accuracy_group_0 : 0.7548867514737821
+accuracy_group_1 : 0.6663175220709262
+accuracy_gap : 0.08856922940285594
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8773982218062705
+Class 0 | Demographic 0 | FPR : 0.26335174953959484
+Class 0 | Demographic 0 | TNR : 0.7366482504604052
+Class 0 | Demographic 0 | FNR : 0.12260177819372953
+Class 0 | Demographic 1 | TPR : 0.7595712098009189
+Class 0 | Demographic 1 | FPR : 0.1527880127732744
+Class 0 | Demographic 1 | TNR : 0.8472119872267256
+Class 0 | Demographic 1 | FNR : 0.24042879019908117
+model_demographic_parity_difference_c0 : 0.2843445442005591
+human_demographic_parity_difference_c0 : 0.1315002259357531
+system_demographic_parity_c0 : 0.28054869355372547
+model_equalized_odds_difference_c0 : 0.1336081767960552
+human_equalized_odds_difference_c0 : 0.01840449141896472
+system_equalized_odds_difference_c0 : 0.11782701200535162
+Class 1 | Demographic 0 | TPR : 0.6254335260115607
+Class 1 | Demographic 0 | FPR : 0.1297709923664122
+Class 1 | Demographic 0 | TNR : 0.8702290076335878
+Class 1 | Demographic 0 | FNR : 0.3745664739884393
+Class 1 | Demographic 1 | TPR : 0.6718161266013565
+Class 1 | Demographic 1 | FPR : 0.23653512037726482
+Class 1 | Demographic 1 | TNR : 0.7634648796227351
+Class 1 | Demographic 1 | FNR : 0.3281838733986436
+model_demographic_parity_difference_c1 : 0.15282792962392616
+human_demographic_parity_difference_c1 : 0.05997151533505557
+system_demographic_parity_c1 : 0.14659834259307014
+model_equalized_odds_difference_c1 : 0.12293442516311451
+human_equalized_odds_difference_c1 : 0.01897365085311309
+system_equalized_odds_difference_c1 : 0.10676412801085261
+Class 2 | Demographic 0 | TPR : 0.6153846153846154
+Class 2 | Demographic 0 | FPR : 0.02631578947368421
+Class 2 | Demographic 0 | TNR : 0.9736842105263158
+Class 2 | Demographic 0 | FNR : 0.38461538461538464
+Class 2 | Demographic 1 | TPR : 0.662667607621736
+Class 2 | Demographic 1 | FPR : 0.07633877706038739
+Class 2 | Demographic 1 | TNR : 0.9236612229396126
+Class 2 | Demographic 1 | FNR : 0.33733239237826396
+model_demographic_parity_difference_c2 : 0.13151661457663288
+human_demographic_parity_difference_c2 : 0.07152871060069754
+system_demographic_parity_c2 : 0.13395035096065522
+model_equalized_odds_difference_c2 : 0.07522105525343525
+human_equalized_odds_difference_c2 : 0.010627257254348432
+system_equalized_odds_difference_c2 : 0.05002298758670318
+deferral rate : 0.3140520896426408
+model accuracy : 0.6976579850595599
+human accuracy : 0.6439531597011912
+combined accuracy : 0.7326872602463154
+accuracy_group_0 : 0.7614024201054918
+accuracy_group_1 : 0.6669160556636241
+accuracy_gap : 0.09448636444186764
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8741226017781937
+Class 0 | Demographic 0 | FPR : 0.26703499079189685
+Class 0 | Demographic 0 | TNR : 0.7329650092081031
+Class 0 | Demographic 0 | FNR : 0.12587739822180627
+Class 0 | Demographic 1 | TPR : 0.7572741194486983
+Class 0 | Demographic 1 | FPR : 0.15155981331368215
+Class 0 | Demographic 1 | TNR : 0.8484401866863178
+Class 0 | Demographic 1 | FNR : 0.24272588055130168
+model_demographic_parity_difference_c0 : 0.2828482102188144
+human_demographic_parity_difference_c0 : 0.1315002259357531
+system_demographic_parity_c0 : 0.2812638511291147
+model_equalized_odds_difference_c0 : 0.13024763859398436
+human_equalized_odds_difference_c0 : 0.01840449141896472
+system_equalized_odds_difference_c0 : 0.1168484823294954
+Class 1 | Demographic 0 | TPR : 0.6242774566473989
+Class 1 | Demographic 0 | FPR : 0.13316369804919423
+Class 1 | Demographic 0 | TNR : 0.8668363019508057
+Class 1 | Demographic 0 | FNR : 0.37572254335260113
+Class 1 | Demographic 1 | TPR : 0.6748304446119066
+Class 1 | Demographic 1 | FPR : 0.24224373293621246
+Class 1 | Demographic 1 | TNR : 0.7577562670637875
+Class 1 | Demographic 1 | FNR : 0.32516955538809345
+model_demographic_parity_difference_c1 : 0.15242304198338025
+human_demographic_parity_difference_c1 : 0.05997151533505557
+system_demographic_parity_c1 : 0.14906508839257565
+model_equalized_odds_difference_c1 : 0.12448615224103621
+human_equalized_odds_difference_c1 : 0.01897365085311309
+system_equalized_odds_difference_c1 : 0.10908003488701823
+Class 2 | Demographic 0 | TPR : 0.6108597285067874
+Class 2 | Demographic 0 | FPR : 0.02531645569620253
+Class 2 | Demographic 0 | TNR : 0.9746835443037974
+Class 2 | Demographic 0 | FNR : 0.3891402714932127
+Class 2 | Demographic 1 | TPR : 0.6541990119971771
+Class 2 | Demographic 1 | FPR : 0.0748195974173946
+Class 2 | Demographic 1 | TNR : 0.9251804025826054
+Class 2 | Demographic 1 | FNR : 0.3458009880028229
+model_demographic_parity_difference_c2 : 0.13042516823543412
+human_demographic_parity_difference_c2 : 0.07152871060069754
+system_demographic_parity_c2 : 0.13219876273653905
+model_equalized_odds_difference_c2 : 0.05495715857740618
+human_equalized_odds_difference_c2 : 0.010627257254348432
+system_equalized_odds_difference_c2 : 0.04950314172119208
+deferral rate : 1.0
+model accuracy : 0.6982636785786392
+human accuracy : 0.6439531597011912
+combined accuracy : 0.7307692307692307
+accuracy_group_0 : 0.7641948495190816
+accuracy_group_1 : 0.6664671554691007
+accuracy_gap : 0.09772769404998083
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8235844642021526
+Class 0 | Demographic 0 | FPR : 0.24953959484346225
+Class 0 | Demographic 0 | TNR : 0.7504604051565378
+Class 0 | Demographic 0 | FNR : 0.17641553579784744
+Class 0 | Demographic 1 | TPR : 0.7388973966309341
+Class 0 | Demographic 1 | FPR : 0.1864406779661017
+Class 0 | Demographic 1 | TNR : 0.8135593220338984
+Class 0 | Demographic 1 | FNR : 0.2611026033690659
+model_demographic_parity_difference_c0 : 0.282399310024291
+human_demographic_parity_difference_c0 : 0.1315002259357531
+system_demographic_parity_c0 : 0.22779402997561338
+model_equalized_odds_difference_c0 : 0.13063088738428802
+human_equalized_odds_difference_c0 : 0.01840449141896472
+system_equalized_odds_difference_c0 : 0.08468706757121847
+Class 1 | Demographic 0 | TPR : 0.5976878612716763
+Class 1 | Demographic 0 | FPR : 0.1361323155216285
+Class 1 | Demographic 0 | TNR : 0.8638676844783715
+Class 1 | Demographic 0 | FNR : 0.4023121387283237
+Class 1 | Demographic 1 | TPR : 0.6220798794272796
+Class 1 | Demographic 1 | FPR : 0.1893770166294366
+Class 1 | Demographic 1 | TNR : 0.8106229833705634
+Class 1 | Demographic 1 | FNR : 0.3779201205727204
+model_demographic_parity_difference_c1 : 0.14806166715933178
+human_demographic_parity_difference_c1 : 0.05997151533505557
+system_demographic_parity_c1 : 0.10120881779447988
+model_equalized_odds_difference_c1 : 0.11608838465653279
+human_equalized_odds_difference_c1 : 0.01897365085311309
+system_equalized_odds_difference_c1 : 0.0532447011078081
+Class 2 | Demographic 0 | TPR : 0.6153846153846154
+Class 2 | Demographic 0 | FPR : 0.072618254497002
+Class 2 | Demographic 0 | TNR : 0.927381745502998
+Class 2 | Demographic 0 | FNR : 0.38461538461538464
+Class 2 | Demographic 1 | TPR : 0.6753705010585744
+Class 2 | Demographic 1 | FPR : 0.11830611469806304
+Class 2 | Demographic 1 | TNR : 0.8816938853019369
+Class 2 | Demographic 1 | FNR : 0.32462949894142556
+model_demographic_parity_difference_c2 : 0.13433764286495914
+human_demographic_parity_difference_c2 : 0.07152871060069754
+system_demographic_parity_c2 : 0.12658521218113356
+model_equalized_odds_difference_c2 : 0.07364357175474279
+human_equalized_odds_difference_c2 : 0.010627257254348432
+system_equalized_odds_difference_c2 : 0.059985885673959016
+deferral rate : 0.41893801736321423
+model accuracy : 0.7000807591358772
+human accuracy : 0.6439531597011912
+combined accuracy : 0.7016959418534222
+accuracy_group_0 : 0.7620229599751784
+accuracy_group_1 : 0.6702079904234625
+accuracy_gap : 0.09181496955171597
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8820776789892373
+Class 0 | Demographic 0 | FPR : 0.26703499079189685
+Class 0 | Demographic 0 | TNR : 0.7329650092081031
+Class 0 | Demographic 0 | FNR : 0.11792232101076275
+Class 0 | Demographic 1 | TPR : 0.7626339969372129
+Class 0 | Demographic 1 | FPR : 0.1508228936379268
+Class 0 | Demographic 1 | TNR : 0.8491771063620732
+Class 0 | Demographic 1 | FNR : 0.23736600306278713
+model_demographic_parity_difference_c0 : 0.28505310917820065
+human_demographic_parity_difference_c0 : 0.1318413232290785
+system_demographic_parity_c0 : 0.28489247264153184
+model_equalized_odds_difference_c0 : 0.1349892990577471
+human_equalized_odds_difference_c0 : 0.011411397962410308
+system_equalized_odds_difference_c0 : 0.11944368205202438
+Class 1 | Demographic 0 | TPR : 0.6034682080924856
+Class 1 | Demographic 0 | FPR : 0.12680237489397794
+Class 1 | Demographic 0 | TNR : 0.8731976251060221
+Class 1 | Demographic 0 | FNR : 0.3965317919075145
+Class 1 | Demographic 1 | TPR : 0.6669178598342125
+Class 1 | Demographic 1 | FPR : 0.23777612310747084
+Class 1 | Demographic 1 | TNR : 0.7622238768925291
+Class 1 | Demographic 1 | FNR : 0.33308214016578747
+model_demographic_parity_difference_c1 : 0.15404041048856304
+human_demographic_parity_difference_c1 : 0.05834537217512409
+system_demographic_parity_c1 : 0.15346829371360055
+model_equalized_odds_difference_c1 : 0.12044263062264235
+human_equalized_odds_difference_c1 : 0.005689307447369285
+system_equalized_odds_difference_c1 : 0.1109737482134929
+Class 2 | Demographic 0 | TPR : 0.6108597285067874
+Class 2 | Demographic 0 | FPR : 0.030646235842771485
+Class 2 | Demographic 0 | TNR : 0.9693537641572285
+Class 2 | Demographic 0 | FNR : 0.3891402714932127
+Class 2 | Demographic 1 | TPR : 0.6605504587155964
+Class 2 | Demographic 1 | FPR : 0.07842764906950248
+Class 2 | Demographic 1 | TNR : 0.9215723509304975
+Class 2 | Demographic 1 | FNR : 0.3394495412844037
+model_demographic_parity_difference_c2 : 0.13101269868963764
+human_demographic_parity_difference_c2 : 0.0734959510539544
+system_demographic_parity_c2 : 0.13142417892793126
+model_equalized_odds_difference_c2 : 0.062061521856448976
+human_equalized_odds_difference_c2 : 0.015650296815974074
+system_equalized_odds_difference_c2 : 0.049690730208808986
+deferral rate : 0.30900464365031294
+model accuracy : 0.699475065616798
+human accuracy : 0.6411265899454875
+combined accuracy : 0.7308701796890773
+accuracy_group_0 : 0.7614024201054918
+accuracy_group_1 : 0.6696094568307647
+accuracy_gap : 0.09179296327472708
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8797379503977538
+Class 0 | Demographic 0 | FPR : 0.26979742173112337
+Class 0 | Demographic 0 | TNR : 0.7302025782688766
+Class 0 | Demographic 0 | FNR : 0.12026204960224614
+Class 0 | Demographic 1 | TPR : 0.7649310872894334
+Class 0 | Demographic 1 | FPR : 0.15622697126013266
+Class 0 | Demographic 1 | TNR : 0.8437730287398674
+Class 0 | Demographic 1 | FNR : 0.23506891271056662
+model_demographic_parity_difference_c0 : 0.2873922278565204
+human_demographic_parity_difference_c0 : 0.1318413232290785
+system_demographic_parity_c0 : 0.28008219762295994
+model_equalized_odds_difference_c0 : 0.1400859875334362
+human_equalized_odds_difference_c0 : 0.011411397962410308
+system_equalized_odds_difference_c0 : 0.11480686310832044
+Class 1 | Demographic 0 | TPR : 0.6138728323699422
+Class 1 | Demographic 0 | FPR : 0.1280746395250212
+Class 1 | Demographic 0 | TNR : 0.8719253604749788
+Class 1 | Demographic 0 | FNR : 0.3861271676300578
+Class 1 | Demographic 1 | TPR : 0.6706857573474001
+Class 1 | Demographic 1 | FPR : 0.23529411764705882
+Class 1 | Demographic 1 | TNR : 0.7647058823529411
+Class 1 | Demographic 1 | FNR : 0.32931424265259984
+model_demographic_parity_difference_c1 : 0.15640153544387148
+human_demographic_parity_difference_c1 : 0.05834537217512409
+system_demographic_parity_c1 : 0.1497450544954808
+model_equalized_odds_difference_c1 : 0.1247343527870774
+human_equalized_odds_difference_c1 : 0.005689307447369285
+system_equalized_odds_difference_c1 : 0.10721947812203761
+Class 2 | Demographic 0 | TPR : 0.6063348416289592
+Class 2 | Demographic 0 | FPR : 0.02764823451032645
+Class 2 | Demographic 0 | TNR : 0.9723517654896735
+Class 2 | Demographic 0 | FNR : 0.3936651583710407
+Class 2 | Demographic 1 | TPR : 0.6605504587155964
+Class 2 | Demographic 1 | FPR : 0.07311052031902772
+Class 2 | Demographic 1 | TNR : 0.9268894796809722
+Class 2 | Demographic 1 | FNR : 0.3394495412844037
+model_demographic_parity_difference_c2 : 0.13099069241264888
+human_demographic_parity_difference_c2 : 0.0734959510539544
+system_demographic_parity_c2 : 0.13033714312747918
+model_equalized_odds_difference_c2 : 0.0539578247999245
+human_equalized_odds_difference_c2 : 0.015650296815974074
+system_equalized_odds_difference_c2 : 0.054215617086637136
+deferral rate : 1.0
+model accuracy : 0.6983646274984857
+human accuracy : 0.6411265899454875
+combined accuracy : 0.7327882091661619
+accuracy_group_0 : 0.7607818802358052
+accuracy_group_1 : 0.6682627562471943
+accuracy_gap : 0.09251912398861084
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8165652784277024
+Class 0 | Demographic 0 | FPR : 0.27348066298342544
+Class 0 | Demographic 0 | TNR : 0.7265193370165746
+Class 0 | Demographic 0 | FNR : 0.18343472157229762
+Class 0 | Demographic 1 | TPR : 0.7591883614088821
+Class 0 | Demographic 1 | FPR : 0.18619503807418325
+Class 0 | Demographic 1 | TNR : 0.8138049619258167
+Class 0 | Demographic 1 | FNR : 0.24081163859111793
+model_demographic_parity_difference_c0 : 0.28248733513224594
+human_demographic_parity_difference_c0 : 0.1318413232290785
+system_demographic_parity_c0 : 0.2234260625538173
+model_equalized_odds_difference_c0 : 0.13787387137969548
+human_equalized_odds_difference_c0 : 0.011411397962410308
+system_equalized_odds_difference_c0 : 0.08728562490924219
+Class 1 | Demographic 0 | TPR : 0.5560693641618497
+Class 1 | Demographic 0 | FPR : 0.1344359626802375
+Class 1 | Demographic 0 | TNR : 0.8655640373197625
+Class 1 | Demographic 0 | FNR : 0.4439306358381503
+Class 1 | Demographic 1 | TPR : 0.6066314996232103
+Class 1 | Demographic 1 | FPR : 0.1732439811367585
+Class 1 | Demographic 1 | TNR : 0.8267560188632415
+Class 1 | Demographic 1 | FNR : 0.3933685003767898
+model_demographic_parity_difference_c1 : 0.1537411436922141
+human_demographic_parity_difference_c1 : 0.05834537217512409
+system_demographic_parity_c1 : 0.0977584749817183
+model_equalized_odds_difference_c1 : 0.11966676708368146
+human_equalized_odds_difference_c1 : 0.005689307447369285
+system_equalized_odds_difference_c1 : 0.05056213546136057
+Class 2 | Demographic 0 | TPR : 0.6289592760180995
+Class 2 | Demographic 0 | FPR : 0.08127914723517655
+Class 2 | Demographic 0 | TNR : 0.9187208527648234
+Class 2 | Demographic 0 | FNR : 0.37104072398190047
+Class 2 | Demographic 1 | TPR : 0.68454481298518
+Class 2 | Demographic 1 | FPR : 0.12609191036840106
+Class 2 | Demographic 1 | TNR : 0.8739080896315989
+Class 2 | Demographic 1 | FNR : 0.31545518701482006
+model_demographic_parity_difference_c2 : 0.1287461914400318
+human_demographic_parity_difference_c2 : 0.0734959510539544
+system_demographic_parity_c2 : 0.125667587572099
+model_equalized_odds_difference_c2 : 0.05210553389777116
+human_equalized_odds_difference_c2 : 0.015650296815974074
+system_equalized_odds_difference_c2 : 0.05558553696708046
+deferral rate : 0.4199475065616798
+model accuracy : 0.6977589339794065
+human accuracy : 0.6411265899454875
+combined accuracy : 0.6993741166969514
+accuracy_group_0 : 0.7586099906919019
+accuracy_group_1 : 0.6684123896453689
+accuracy_gap : 0.09019760104653307
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8755264389330838
+Class 0 | Demographic 0 | FPR : 0.2605893186003683
+Class 0 | Demographic 0 | TNR : 0.7394106813996317
+Class 0 | Demographic 0 | FNR : 0.12447356106691623
+Class 0 | Demographic 1 | TPR : 0.7626339969372129
+Class 0 | Demographic 1 | FPR : 0.1503316138540899
+Class 0 | Demographic 1 | TNR : 0.8496683861459101
+Class 0 | Demographic 1 | FNR : 0.23736600306278713
+model_demographic_parity_difference_c0 : 0.2842609296333508
+human_demographic_parity_difference_c0 : 0.13255207026372112
+system_demographic_parity_c0 : 0.2786760708061712
+model_equalized_odds_difference_c0 : 0.1363396399000612
+human_equalized_odds_difference_c0 : 0.011981345232865759
+system_equalized_odds_difference_c0 : 0.1128924419958709
+Class 1 | Demographic 0 | TPR : 0.6289017341040463
+Class 1 | Demographic 0 | FPR : 0.13528413910093298
+Class 1 | Demographic 0 | TNR : 0.864715860899067
+Class 1 | Demographic 0 | FNR : 0.37109826589595374
+Class 1 | Demographic 1 | TPR : 0.674076865109269
+Class 1 | Demographic 1 | FPR : 0.23529411764705882
+Class 1 | Demographic 1 | TNR : 0.7647058823529411
+Class 1 | Demographic 1 | FNR : 0.325923134890731
+model_demographic_parity_difference_c1 : 0.15291595473188113
+human_demographic_parity_difference_c1 : 0.06325685749714627
+system_demographic_parity_c1 : 0.14178365703375162
+model_equalized_odds_difference_c1 : 0.12013190627492665
+human_equalized_odds_difference_c1 : 0.01505155267869196
+system_equalized_odds_difference_c1 : 0.10000997854612584
+Class 2 | Demographic 0 | TPR : 0.5972850678733032
+Class 2 | Demographic 0 | FPR : 0.02465023317788141
+Class 2 | Demographic 0 | TNR : 0.9753497668221186
+Class 2 | Demographic 0 | FNR : 0.40271493212669685
+Class 2 | Demographic 1 | TPR : 0.6669019054340155
+Class 2 | Demographic 1 | FPR : 0.0753892897835169
+Class 2 | Demographic 1 | TNR : 0.9246107102164831
+Class 2 | Demographic 1 | FNR : 0.3330980945659845
+model_demographic_parity_difference_c2 : 0.13134497490146968
+human_demographic_parity_difference_c2 : 0.06929521276657483
+system_demographic_parity_c2 : 0.1368924137724195
+model_equalized_odds_difference_c2 : 0.05782722404416951
+human_equalized_odds_difference_c2 : 0.01872223836605913
+system_equalized_odds_difference_c2 : 0.06961683756071235
+deferral rate : 0.3047647890167575
+model accuracy : 0.6976579850595599
+human accuracy : 0.6498081970522915
+combined accuracy : 0.7342014940440137
+accuracy_group_0 : 0.7598510704312752
+accuracy_group_1 : 0.6676642226544964
+accuracy_gap : 0.09218684777677877
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8802058961160505
+Class 0 | Demographic 0 | FPR : 0.26335174953959484
+Class 0 | Demographic 0 | TNR : 0.7366482504604052
+Class 0 | Demographic 0 | FNR : 0.11979410388394947
+Class 0 | Demographic 1 | TPR : 0.7622511485451761
+Class 0 | Demographic 1 | FPR : 0.15475313190862197
+Class 0 | Demographic 1 | TNR : 0.8452468680913781
+Class 0 | Demographic 1 | FNR : 0.23774885145482388
+model_demographic_parity_difference_c0 : 0.2889765869462201
+human_demographic_parity_difference_c0 : 0.13255207026372112
+system_demographic_parity_c0 : 0.28016581219016823
+model_equalized_odds_difference_c0 : 0.14536520951997078
+human_equalized_odds_difference_c0 : 0.011981345232865759
+system_equalized_odds_difference_c0 : 0.11795474757087443
+Class 1 | Demographic 0 | TPR : 0.6265895953757226
+Class 1 | Demographic 0 | FPR : 0.12849872773536897
+Class 1 | Demographic 0 | TNR : 0.871501272264631
+Class 1 | Demographic 0 | FNR : 0.37341040462427744
+Class 1 | Demographic 1 | TPR : 0.6620195930670686
+Class 1 | Demographic 1 | FPR : 0.23479771655497642
+Class 1 | Demographic 1 | TNR : 0.7652022834450236
+Class 1 | Demographic 1 | FNR : 0.3379804069329314
+model_demographic_parity_difference_c1 : 0.15611327178601692
+human_demographic_parity_difference_c1 : 0.06325685749714627
+system_demographic_parity_c1 : 0.14228098032299918
+model_equalized_odds_difference_c1 : 0.12246928597186932
+human_equalized_odds_difference_c1 : 0.01505155267869196
+system_equalized_odds_difference_c1 : 0.10629898881960745
+Class 2 | Demographic 0 | TPR : 0.6108597285067874
+Class 2 | Demographic 0 | FPR : 0.02531645569620253
+Class 2 | Demographic 0 | TNR : 0.9746835443037974
+Class 2 | Demographic 0 | FNR : 0.3891402714932127
+Class 2 | Demographic 1 | TPR : 0.6676076217360621
+Class 2 | Demographic 1 | FPR : 0.07842764906950248
+Class 2 | Demographic 1 | TNR : 0.9215723509304975
+Class 2 | Demographic 1 | FNR : 0.3323923782639379
+model_demographic_parity_difference_c2 : 0.13286331516020317
+human_demographic_parity_difference_c2 : 0.06929521276657483
+system_demographic_parity_c2 : 0.137884831867169
+model_equalized_odds_difference_c2 : 0.05628960361404842
+human_equalized_odds_difference_c2 : 0.01872223836605913
+system_equalized_odds_difference_c2 : 0.05674789322927476
+deferral rate : 1.0
+model accuracy : 0.6984655764183323
+human accuracy : 0.6498081970522915
+combined accuracy : 0.732081566727236
+accuracy_group_0 : 0.7601613403661185
+accuracy_group_1 : 0.6687116564417178
+accuracy_gap : 0.09144968392440067
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8189050070191858
+Class 0 | Demographic 0 | FPR : 0.2569060773480663
+Class 0 | Demographic 0 | TNR : 0.7430939226519337
+Class 0 | Demographic 0 | FNR : 0.18109499298081422
+Class 0 | Demographic 1 | TPR : 0.7622511485451761
+Class 0 | Demographic 1 | FPR : 0.17858020142471137
+Class 0 | Demographic 1 | TNR : 0.8214197985752886
+Class 0 | Demographic 1 | FNR : 0.23774885145482388
+model_demographic_parity_difference_c0 : 0.2839506596985075
+human_demographic_parity_difference_c0 : 0.13255207026372112
+system_demographic_parity_c0 : 0.22283412155886712
+model_equalized_odds_difference_c0 : 0.1368309196838981
+human_equalized_odds_difference_c0 : 0.011981345232865759
+system_equalized_odds_difference_c0 : 0.07832587592335494
+Class 1 | Demographic 0 | TPR : 0.5907514450867052
+Class 1 | Demographic 0 | FPR : 0.13231552162849872
+Class 1 | Demographic 0 | TNR : 0.8676844783715013
+Class 1 | Demographic 0 | FNR : 0.4092485549132948
+Class 1 | Demographic 1 | TPR : 0.6190655614167294
+Class 1 | Demographic 1 | FPR : 0.17671878878133532
+Class 1 | Demographic 1 | TNR : 0.8232812112186647
+Class 1 | Demographic 1 | FNR : 0.38093443858327053
+model_demographic_parity_difference_c1 : 0.15250006395284083
+human_demographic_parity_difference_c1 : 0.06325685749714627
+system_demographic_parity_c1 : 0.09703449632483568
+model_equalized_odds_difference_c1 : 0.12122828324166332
+human_equalized_odds_difference_c1 : 0.01505155267869196
+system_equalized_odds_difference_c1 : 0.0444032671528366
+Class 2 | Demographic 0 | TPR : 0.6334841628959276
+Class 2 | Demographic 0 | FPR : 0.07694870086608928
+Class 2 | Demographic 0 | TNR : 0.9230512991339107
+Class 2 | Demographic 0 | FNR : 0.3665158371040724
+Class 2 | Demographic 1 | TPR : 0.6873676781933663
+Class 2 | Demographic 1 | FPR : 0.12077478161792632
+Class 2 | Demographic 1 | TNR : 0.8792252183820737
+Class 2 | Demographic 1 | FNR : 0.31263232180663375
+model_demographic_parity_difference_c2 : 0.13145059574566667
+human_demographic_parity_difference_c2 : 0.06929521276657483
+system_demographic_parity_c2 : 0.1257996252340314
+model_equalized_odds_difference_c2 : 0.06235211092199755
+human_equalized_odds_difference_c2 : 0.01872223836605913
+system_equalized_odds_difference_c2 : 0.05388351529743873
+deferral rate : 0.4225721784776903
+model accuracy : 0.6965475469412478
+human accuracy : 0.6498081970522915
+combined accuracy : 0.7075509792045225
+accuracy_group_0 : 0.7589202606267452
+accuracy_group_1 : 0.6664671554691007
+accuracy_gap : 0.09245310515764449
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8764623303696771
+Class 0 | Demographic 0 | FPR : 0.27808471454880296
+Class 0 | Demographic 0 | TNR : 0.7219152854511971
+Class 0 | Demographic 0 | FNR : 0.12353766963032288
+Class 0 | Demographic 1 | TPR : 0.7614854517611026
+Class 0 | Demographic 1 | FPR : 0.15352493244902973
+Class 0 | Demographic 1 | TNR : 0.8464750675509702
+Class 0 | Demographic 1 | FNR : 0.2385145482388974
+model_demographic_parity_difference_c0 : 0.2842609296333508
+human_demographic_parity_difference_c0 : 0.11773395330370162
+system_demographic_parity_c0 : 0.2836954054561361
+model_equalized_odds_difference_c0 : 0.14186450177851423
+human_equalized_odds_difference_c0 : 0.013573978999824932
+system_equalized_odds_difference_c0 : 0.12455978209977323
+Class 1 | Demographic 0 | TPR : 0.6034682080924856
+Class 1 | Demographic 0 | FPR : 0.1344359626802375
+Class 1 | Demographic 0 | TNR : 0.8655640373197625
+Class 1 | Demographic 0 | FNR : 0.3965317919075145
+Class 1 | Demographic 1 | TPR : 0.6669178598342125
+Class 1 | Demographic 1 | FPR : 0.23852072474559444
+Class 1 | Demographic 1 | TNR : 0.7614792752544055
+Class 1 | Demographic 1 | FNR : 0.33308214016578747
+model_demographic_parity_difference_c1 : 0.150970720555613
+human_demographic_parity_difference_c1 : 0.057216505877695556
+system_demographic_parity_c1 : 0.14833233508094434
+model_equalized_odds_difference_c1 : 0.11694635015728838
+human_equalized_odds_difference_c1 : 0.0010310111740770012
+system_equalized_odds_difference_c1 : 0.10408476206535694
+Class 2 | Demographic 0 | TPR : 0.583710407239819
+Class 2 | Demographic 0 | FPR : 0.02664890073284477
+Class 2 | Demographic 0 | TNR : 0.9733510992671552
+Class 2 | Demographic 0 | FNR : 0.416289592760181
+Class 2 | Demographic 1 | TPR : 0.6605504587155964
+Class 2 | Demographic 1 | FPR : 0.07633877706038739
+Class 2 | Demographic 1 | TNR : 0.9236612229396126
+Class 2 | Demographic 1 | FNR : 0.3394495412844037
+model_demographic_parity_difference_c2 : 0.1332902090777378
+human_demographic_parity_difference_c2 : 0.060517447426006094
+system_demographic_parity_c2 : 0.1353630703751917
+model_equalized_odds_difference_c2 : 0.06446925982813734
+human_equalized_odds_difference_c2 : 0.04338079621403956
+system_equalized_odds_difference_c2 : 0.07684005147577733
+deferral rate : 0.3022410660205936
+model accuracy : 0.6961437512618615
+human accuracy : 0.6390066626287099
+combined accuracy : 0.7287502523722996
+accuracy_group_0 : 0.7564381011479988
+accuracy_group_1 : 0.6670656890617986
+accuracy_gap : 0.08937241208620017
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8759943846513805
+Class 0 | Demographic 0 | FPR : 0.26611418047882135
+Class 0 | Demographic 0 | TNR : 0.7338858195211786
+Class 0 | Demographic 0 | FNR : 0.12400561534861956
+Class 0 | Demographic 1 | TPR : 0.7588055130168453
+Class 0 | Demographic 1 | FPR : 0.1564726111520511
+Class 0 | Demographic 1 | TNR : 0.8435273888479489
+Class 0 | Demographic 1 | FNR : 0.24119448698315468
+model_demographic_parity_difference_c0 : 0.28173475760062683
+human_demographic_parity_difference_c0 : 0.11773395330370162
+system_demographic_parity_c0 : 0.27860345937745734
+model_equalized_odds_difference_c0 : 0.12952618643389235
+human_equalized_odds_difference_c0 : 0.013573978999824932
+system_equalized_odds_difference_c0 : 0.11718887163453517
+Class 1 | Demographic 0 | TPR : 0.6115606936416185
+Class 1 | Demographic 0 | FPR : 0.13273960983884647
+Class 1 | Demographic 0 | TNR : 0.8672603901611535
+Class 1 | Demographic 0 | FNR : 0.3884393063583815
+Class 1 | Demographic 1 | TPR : 0.6627731725697061
+Class 1 | Demographic 1 | FPR : 0.23951352692975925
+Class 1 | Demographic 1 | TNR : 0.7604864730702408
+Class 1 | Demographic 1 | FNR : 0.3372268274302939
+model_demographic_parity_difference_c1 : 0.15205775635606505
+human_demographic_parity_difference_c1 : 0.057216505877695556
+system_demographic_parity_c1 : 0.1463540914891931
+model_equalized_odds_difference_c1 : 0.12254159885360402
+human_equalized_odds_difference_c1 : 0.0010310111740770012
+system_equalized_odds_difference_c1 : 0.10677391709091277
+Class 2 | Demographic 0 | TPR : 0.5927601809954751
+Class 2 | Demographic 0 | FPR : 0.029646902065289808
+Class 2 | Demographic 0 | TNR : 0.9703530979347101
+Class 2 | Demographic 0 | FNR : 0.4072398190045249
+Class 2 | Demographic 1 | TPR : 0.6619618913196895
+Class 2 | Demographic 1 | FPR : 0.07633877706038739
+Class 2 | Demographic 1 | TNR : 0.9236612229396126
+Class 2 | Demographic 1 | FNR : 0.33803810868031053
+model_demographic_parity_difference_c2 : 0.12967700124456175
+human_demographic_parity_difference_c2 : 0.060517447426006094
+system_demographic_parity_c2 : 0.1322493678882642
+model_equalized_odds_difference_c2 : 0.053534509086612225
+human_equalized_odds_difference_c2 : 0.04338079621403956
+system_equalized_odds_difference_c2 : 0.0692017103242144
+deferral rate : 1.0
+model accuracy : 0.6992731677771048
+human accuracy : 0.6390066626287099
+combined accuracy : 0.7279426610135271
+accuracy_group_0 : 0.763574309649395
+accuracy_group_1 : 0.6682627562471943
+accuracy_gap : 0.09531155340220065
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8160973327094057
+Class 0 | Demographic 0 | FPR : 0.26243093922651933
+Class 0 | Demographic 0 | TNR : 0.7375690607734806
+Class 0 | Demographic 0 | FNR : 0.1839026672905943
+Class 0 | Demographic 1 | TPR : 0.7595712098009189
+Class 0 | Demographic 1 | FPR : 0.18963399656104152
+Class 0 | Demographic 1 | TNR : 0.8103660034389585
+Class 0 | Demographic 1 | FNR : 0.24042879019908117
+model_demographic_parity_difference_c0 : 0.2837614242871022
+human_demographic_parity_difference_c0 : 0.11773395330370162
+system_demographic_parity_c0 : 0.21714805242823715
+model_equalized_odds_difference_c0 : 0.13744298372398217
+human_equalized_odds_difference_c0 : 0.013573978999824932
+system_equalized_odds_difference_c0 : 0.07279694266547782
+Class 1 | Demographic 0 | TPR : 0.5699421965317919
+Class 1 | Demographic 0 | FPR : 0.14164546225614927
+Class 1 | Demographic 0 | TNR : 0.8583545377438507
+Class 1 | Demographic 0 | FNR : 0.4300578034682081
+Class 1 | Demographic 1 | TPR : 0.6062547098718915
+Class 1 | Demographic 1 | FPR : 0.18441300570861255
+Class 1 | Demographic 1 | TNR : 0.8155869942913875
+Class 1 | Demographic 1 | FNR : 0.3937452901281085
+model_demographic_parity_difference_c1 : 0.15255507964531267
+human_demographic_parity_difference_c1 : 0.057216505877695556
+system_demographic_parity_c1 : 0.09534451639093905
+model_equalized_odds_difference_c1 : 0.11959445420194684
+human_equalized_odds_difference_c1 : 0.0010310111740770012
+system_equalized_odds_difference_c1 : 0.04276754345246328
+Class 2 | Demographic 0 | TPR : 0.6334841628959276
+Class 2 | Demographic 0 | FPR : 0.07561625582944703
+Class 2 | Demographic 0 | TNR : 0.9243837441705529
+Class 2 | Demographic 0 | FNR : 0.3665158371040724
+Class 2 | Demographic 1 | TPR : 0.6760762173606211
+Class 2 | Demographic 1 | FPR : 0.11716672996581846
+Class 2 | Demographic 1 | TNR : 0.8828332700341815
+Class 2 | Demographic 1 | FNR : 0.323923782639379
+model_demographic_parity_difference_c2 : 0.1312063446417896
+human_demographic_parity_difference_c2 : 0.060517447426006094
+system_demographic_parity_c2 : 0.12180353603729814
+model_equalized_odds_difference_c2 : 0.0637635435260907
+human_equalized_odds_difference_c2 : 0.04338079621403956
+system_equalized_odds_difference_c2 : 0.042592054464693496
+deferral rate : 0.423783565515849
+model accuracy : 0.6970522915404805
+human accuracy : 0.6390066626287099
+combined accuracy : 0.6993741166969514
+accuracy_group_0 : 0.7592305305615886
+accuracy_group_1 : 0.6670656890617986
+accuracy_gap : 0.09216484149978998
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8797379503977538
+Class 0 | Demographic 0 | FPR : 0.2716390423572744
+Class 0 | Demographic 0 | TNR : 0.7283609576427256
+Class 0 | Demographic 0 | FNR : 0.12026204960224614
+Class 0 | Demographic 1 | TPR : 0.7549770290964778
+Class 0 | Demographic 1 | FPR : 0.15401621223286663
+Class 0 | Demographic 1 | TNR : 0.8459837877671333
+Class 0 | Demographic 1 | FNR : 0.2450229709035222
+model_demographic_parity_difference_c0 : 0.2851917394378808
+human_demographic_parity_difference_c0 : 0.12277088368990852
+system_demographic_parity_c0 : 0.28593990642875317
+model_equalized_odds_difference_c0 : 0.13376109959815485
+human_equalized_odds_difference_c0 : 0.010649348136565595
+system_equalized_odds_difference_c0 : 0.12476092130127603
+Class 1 | Demographic 0 | TPR : 0.6092485549132948
+Class 1 | Demographic 0 | FPR : 0.1280746395250212
+Class 1 | Demographic 0 | TNR : 0.8719253604749788
+Class 1 | Demographic 0 | FNR : 0.39075144508670523
+Class 1 | Demographic 1 | TPR : 0.6763376036171816
+Class 1 | Demographic 1 | FPR : 0.24646314221891288
+Class 1 | Demographic 1 | TNR : 0.7535368577810871
+Class 1 | Demographic 1 | FNR : 0.3236623963828184
+model_demographic_parity_difference_c1 : 0.15537610793363893
+human_demographic_parity_difference_c1 : 0.0536869126117277
+system_demographic_parity_c1 : 0.1599641381253224
+model_equalized_odds_difference_c1 : 0.12565484208950758
+human_equalized_odds_difference_c1 : 0.008543326465450751
+system_equalized_odds_difference_c1 : 0.11838850269389167
+Class 2 | Demographic 0 | TPR : 0.6199095022624435
+Class 2 | Demographic 0 | FPR : 0.02731512325116589
+Class 2 | Demographic 0 | TNR : 0.9726848767488341
+Class 2 | Demographic 0 | FNR : 0.38009049773755654
+Class 2 | Demographic 1 | TPR : 0.6492589978828511
+Class 2 | Demographic 1 | FPR : 0.07140144322066085
+Class 2 | Demographic 1 | TNR : 0.9285985567793391
+Class 2 | Demographic 1 | FNR : 0.3507410021171489
+model_demographic_parity_difference_c2 : 0.12981563150424186
+human_demographic_parity_difference_c2 : 0.06908397107818084
+system_demographic_parity_c2 : 0.1259757683034307
+model_equalized_odds_difference_c2 : 0.05424425240749742
+human_equalized_odds_difference_c2 : 0.024949146913529008
+system_equalized_odds_difference_c2 : 0.044086319969494955
+deferral rate : 0.3062790228144559
+model accuracy : 0.6965475469412478
+human accuracy : 0.6553603876438522
+combined accuracy : 0.7299616394104583
+accuracy_group_0 : 0.7620229599751784
+accuracy_group_1 : 0.664970821487356
+accuracy_gap : 0.09705213848782246
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8797379503977538
+Class 0 | Demographic 0 | FPR : 0.26979742173112337
+Class 0 | Demographic 0 | TNR : 0.7302025782688766
+Class 0 | Demographic 0 | FNR : 0.12026204960224614
+Class 0 | Demographic 1 | TPR : 0.7591883614088821
+Class 0 | Demographic 1 | FPR : 0.15622697126013266
+Class 0 | Demographic 1 | TNR : 0.8437730287398674
+Class 0 | Demographic 1 | FNR : 0.24081163859111793
+model_demographic_parity_difference_c0 : 0.28236630060880785
+human_demographic_parity_difference_c0 : 0.12277088368990852
+system_demographic_parity_c0 : 0.282326698595577
+model_equalized_odds_difference_c0 : 0.13646313840925778
+human_equalized_odds_difference_c0 : 0.010649348136565595
+system_equalized_odds_difference_c0 : 0.12054958898887169
+Class 1 | Demographic 0 | TPR : 0.6092485549132948
+Class 1 | Demographic 0 | FPR : 0.12383375742154368
+Class 1 | Demographic 0 | TNR : 0.8761662425784563
+Class 1 | Demographic 0 | FNR : 0.39075144508670523
+Class 1 | Demographic 1 | TPR : 0.6635267520723437
+Class 1 | Demographic 1 | FPR : 0.23529411764705882
+Class 1 | Demographic 1 | TNR : 0.7647058823529411
+Class 1 | Demographic 1 | FNR : 0.33647324792765637
+model_demographic_parity_difference_c1 : 0.15083868289368058
+human_demographic_parity_difference_c1 : 0.0536869126117277
+system_demographic_parity_c1 : 0.1512457990179722
+model_equalized_odds_difference_c1 : 0.11741148934853357
+human_equalized_odds_difference_c1 : 0.008543326465450751
+system_equalized_odds_difference_c1 : 0.11146036022551514
+Class 2 | Demographic 0 | TPR : 0.6425339366515838
+Class 2 | Demographic 0 | FPR : 0.029646902065289808
+Class 2 | Demographic 0 | TNR : 0.9703530979347101
+Class 2 | Demographic 0 | FNR : 0.3574660633484163
+Class 2 | Demographic 1 | TPR : 0.6739590684544813
+Class 2 | Demographic 1 | FPR : 0.0759589821496392
+Class 2 | Demographic 1 | TNR : 0.9240410178503609
+Class 2 | Demographic 1 | FNR : 0.3260409315455187
+model_demographic_parity_difference_c2 : 0.13152761771512728
+human_demographic_parity_difference_c2 : 0.06908397107818084
+system_demographic_parity_c2 : 0.13108089957760483
+model_equalized_odds_difference_c2 : 0.06235211092199755
+human_equalized_odds_difference_c2 : 0.024949146913529008
+system_equalized_odds_difference_c2 : 0.046312080084349394
+deferral rate : 1.0
+model accuracy : 0.6985665253381789
+human accuracy : 0.6553603876438522
+combined accuracy : 0.7316777710478498
+accuracy_group_0 : 0.7589202606267452
+accuracy_group_1 : 0.6694598234325901
+accuracy_gap : 0.08946043719415508
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8137576041179223
+Class 0 | Demographic 0 | FPR : 0.2569060773480663
+Class 0 | Demographic 0 | TNR : 0.7430939226519337
+Class 0 | Demographic 0 | FNR : 0.18624239588207767
+Class 0 | Demographic 1 | TPR : 0.7668453292496171
+Class 0 | Demographic 1 | FPR : 0.1874232375337755
+Class 0 | Demographic 1 | TNR : 0.8125767624662246
+Class 0 | Demographic 1 | FNR : 0.23315467075038285
+model_demographic_parity_difference_c0 : 0.28612254924241065
+human_demographic_parity_difference_c0 : 0.12277088368990852
+system_demographic_parity_c0 : 0.2122387491632159
+model_equalized_odds_difference_c0 : 0.13437405273239456
+human_equalized_odds_difference_c0 : 0.010649348136565595
+system_equalized_odds_difference_c0 : 0.06948283981429082
+Class 1 | Demographic 0 | TPR : 0.5988439306358382
+Class 1 | Demographic 0 | FPR : 0.14037319762510603
+Class 1 | Demographic 0 | TNR : 0.859626802374894
+Class 1 | Demographic 0 | FNR : 0.40115606936416187
+Class 1 | Demographic 1 | TPR : 0.6092690278824416
+Class 1 | Demographic 1 | FPR : 0.1734921816827997
+Class 1 | Demographic 1 | TNR : 0.8265078183172003
+Class 1 | Demographic 1 | FNR : 0.3907309721175584
+model_demographic_parity_difference_c1 : 0.1515076458580914
+human_demographic_parity_difference_c1 : 0.0536869126117277
+system_demographic_parity_c1 : 0.08313177549010514
+model_equalized_odds_difference_c1 : 0.12373176152285242
+human_equalized_odds_difference_c1 : 0.008543326465450751
+system_equalized_odds_difference_c1 : 0.03311898405769367
+Class 2 | Demographic 0 | TPR : 0.6470588235294118
+Class 2 | Demographic 0 | FPR : 0.0709526982011992
+Class 2 | Demographic 0 | TNR : 0.9290473017988008
+Class 2 | Demographic 0 | FNR : 0.35294117647058826
+Class 2 | Demographic 1 | TPR : 0.6944248412138321
+Class 2 | Demographic 1 | FPR : 0.11716672996581846
+Class 2 | Demographic 1 | TNR : 0.8828332700341815
+Class 2 | Demographic 1 | FNR : 0.305575158786168
+model_demographic_parity_difference_c2 : 0.13461490338431933
+human_demographic_parity_difference_c2 : 0.06908397107818084
+system_demographic_parity_c2 : 0.1291069736731109
+model_equalized_odds_difference_c2 : 0.06276723815849561
+human_equalized_odds_difference_c2 : 0.024949146913529008
+system_equalized_odds_difference_c2 : 0.04736601768442028
+deferral rate : 0.4283262669089441
+model accuracy : 0.6980617807389461
+human accuracy : 0.6553603876438522
+combined accuracy : 0.7070462346052897
+accuracy_group_0 : 0.764505119453925
+accuracy_group_1 : 0.6660182552745773
+accuracy_gap : 0.09848686417934771
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8788020589611605
+Class 0 | Demographic 0 | FPR : 0.26887661141804786
+Class 0 | Demographic 0 | TNR : 0.7311233885819521
+Class 0 | Demographic 0 | FNR : 0.12119794103883949
+Class 0 | Demographic 1 | TPR : 0.7679938744257274
+Class 0 | Demographic 1 | FPR : 0.15377057234094818
+Class 0 | Demographic 1 | TNR : 0.8462294276590518
+Class 0 | Demographic 1 | FNR : 0.23200612557427258
+model_demographic_parity_difference_c0 : 0.28164013989492415
+human_demographic_parity_difference_c0 : 0.12209091758700341
+system_demographic_parity_c0 : 0.279450654614779
+model_equalized_odds_difference_c0 : 0.13437587789118832
+human_equalized_odds_difference_c0 : 0.004652046886297834
+system_equalized_odds_difference_c0 : 0.11510603907709968
+Class 1 | Demographic 0 | TPR : 0.6104046242774567
+Class 1 | Demographic 0 | FPR : 0.12765055131467345
+Class 1 | Demographic 0 | TNR : 0.8723494486853266
+Class 1 | Demographic 0 | FNR : 0.3895953757225434
+Class 1 | Demographic 1 | TPR : 0.6680482290881689
+Class 1 | Demographic 1 | FPR : 0.22933730454207
+Class 1 | Demographic 1 | TNR : 0.77066269545793
+Class 1 | Demographic 1 | FNR : 0.3319517709118312
+model_demographic_parity_difference_c1 : 0.14898147382536736
+human_demographic_parity_difference_c1 : 0.05905393715276569
+system_demographic_parity_c1 : 0.14634749889144544
+model_equalized_odds_difference_c1 : 0.11648121096604327
+human_equalized_odds_difference_c1 : 0.008534614563686205
+system_equalized_odds_difference_c1 : 0.10168675322739654
+Class 2 | Demographic 0 | TPR : 0.6244343891402715
+Class 2 | Demographic 0 | FPR : 0.028647568287808126
+Class 2 | Demographic 0 | TNR : 0.9713524317121919
+Class 2 | Demographic 0 | FNR : 0.3755656108597285
+Class 2 | Demographic 1 | TPR : 0.6725476358503881
+Class 2 | Demographic 1 | FPR : 0.07614887960501329
+Class 2 | Demographic 1 | TNR : 0.9238511203949867
+Class 2 | Demographic 1 | FNR : 0.3274523641496119
+model_demographic_parity_difference_c2 : 0.13265866606955684
+human_demographic_parity_difference_c2 : 0.0630369804342377
+system_demographic_parity_c2 : 0.13310315572333356
+model_equalized_odds_difference_c2 : 0.05495715857740618
+human_equalized_odds_difference_c2 : 0.02038274731205114
+system_equalized_odds_difference_c2 : 0.04811324671011663
+deferral rate : 0.31445588532202706
+model accuracy : 0.699475065616798
+human accuracy : 0.6444579043004239
+combined accuracy : 0.7345043408035534
+accuracy_group_0 : 0.7607818802358052
+accuracy_group_1 : 0.6699087236271136
+accuracy_gap : 0.09087315660869155
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8764623303696771
+Class 0 | Demographic 0 | FPR : 0.28084714548802947
+Class 0 | Demographic 0 | TNR : 0.7191528545119705
+Class 0 | Demographic 0 | FNR : 0.12353766963032288
+Class 0 | Demographic 1 | TPR : 0.7656967840735069
+Class 0 | Demographic 1 | FPR : 0.15671825104396955
+Class 0 | Demographic 1 | TNR : 0.8432817489560305
+Class 0 | Demographic 1 | FNR : 0.2343032159264931
+model_demographic_parity_difference_c0 : 0.28176776701610995
+human_demographic_parity_difference_c0 : 0.12209091758700341
+system_demographic_parity_c0 : 0.2810350137044786
+model_equalized_odds_difference_c0 : 0.1288510160127353
+human_equalized_odds_difference_c0 : 0.004652046886297834
+system_equalized_odds_difference_c0 : 0.12412889444405992
+Class 1 | Demographic 0 | TPR : 0.6069364161849711
+Class 1 | Demographic 0 | FPR : 0.13273960983884647
+Class 1 | Demographic 0 | TNR : 0.8672603901611535
+Class 1 | Demographic 0 | FNR : 0.3930635838150289
+Class 1 | Demographic 1 | TPR : 0.6657874905802562
+Class 1 | Demographic 1 | FPR : 0.23554231819310004
+Class 1 | Demographic 1 | TNR : 0.7644576818069
+Class 1 | Demographic 1 | FNR : 0.3342125094197438
+model_demographic_parity_difference_c1 : 0.1522844117237001
+human_demographic_parity_difference_c1 : 0.05905393715276569
+system_demographic_parity_c1 : 0.1463981040431706
+model_equalized_odds_difference_c1 : 0.1217246843337457
+human_equalized_odds_difference_c1 : 0.008534614563686205
+system_equalized_odds_difference_c1 : 0.10280270835425356
+Class 2 | Demographic 0 | TPR : 0.583710407239819
+Class 2 | Demographic 0 | FPR : 0.02598267821452365
+Class 2 | Demographic 0 | TNR : 0.9740173217854764
+Class 2 | Demographic 0 | FNR : 0.416289592760181
+Class 2 | Demographic 1 | TPR : 0.6598447424135497
+Class 2 | Demographic 1 | FPR : 0.0748195974173946
+Class 2 | Demographic 1 | TNR : 0.9251804025826054
+Class 2 | Demographic 1 | FNR : 0.34015525758645027
+model_demographic_parity_difference_c2 : 0.12948335529240979
+human_demographic_parity_difference_c2 : 0.0630369804342377
+system_demographic_parity_c2 : 0.1346369096613081
+model_equalized_odds_difference_c2 : 0.053101704826229286
+human_equalized_odds_difference_c2 : 0.02038274731205114
+system_equalized_odds_difference_c2 : 0.0761343351737307
+deferral rate : 1.0
+model accuracy : 0.6983646274984857
+human accuracy : 0.6444579043004239
+combined accuracy : 0.7297597415707652
+accuracy_group_0 : 0.7620229599751784
+accuracy_group_1 : 0.6676642226544964
+accuracy_gap : 0.094358737320682
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8086102012166588
+Class 0 | Demographic 0 | FPR : 0.24861878453038674
+Class 0 | Demographic 0 | TNR : 0.7513812154696132
+Class 0 | Demographic 0 | FNR : 0.19138979878334114
+Class 0 | Demographic 1 | TPR : 0.7545941807044411
+Class 0 | Demographic 1 | FPR : 0.1854581183984279
+Class 0 | Demographic 1 | TNR : 0.8145418816015721
+Class 0 | Demographic 1 | FNR : 0.24540581929555896
+model_demographic_parity_difference_c0 : 0.284958491472498
+human_demographic_parity_difference_c0 : 0.12209091758700341
+system_demographic_parity_c0 : 0.2120186863933286
+model_equalized_odds_difference_c0 : 0.13535708033238741
+human_equalized_odds_difference_c0 : 0.004652046886297834
+system_equalized_odds_difference_c0 : 0.06316066613195884
+Class 1 | Demographic 0 | TPR : 0.5895953757225434
+Class 1 | Demographic 0 | FPR : 0.1361323155216285
+Class 1 | Demographic 0 | TNR : 0.8638676844783715
+Class 1 | Demographic 0 | FNR : 0.41040462427745666
+Class 1 | Demographic 1 | TPR : 0.6160512434061793
+Class 1 | Demographic 1 | FPR : 0.17944899478778853
+Class 1 | Demographic 1 | TNR : 0.8205510052122115
+Class 1 | Demographic 1 | FNR : 0.38394875659382066
+model_demographic_parity_difference_c1 : 0.15121938220023678
+human_demographic_parity_difference_c1 : 0.05905393715276569
+system_demographic_parity_c1 : 0.09500123704061259
+model_equalized_odds_difference_c1 : 0.12069083116868354
+human_equalized_odds_difference_c1 : 0.008534614563686205
+system_equalized_odds_difference_c1 : 0.043316679266160035
+Class 2 | Demographic 0 | TPR : 0.6606334841628959
+Class 2 | Demographic 0 | FPR : 0.08261159227181879
+Class 2 | Demographic 0 | TNR : 0.9173884077281812
+Class 2 | Demographic 0 | FNR : 0.3393665158371041
+Class 2 | Demographic 1 | TPR : 0.6944248412138321
+Class 2 | Demographic 1 | FPR : 0.11678693505507026
+Class 2 | Demographic 1 | TNR : 0.8832130649449298
+Class 2 | Demographic 1 | FNR : 0.305575158786168
+model_demographic_parity_difference_c2 : 0.13373910927226124
+human_demographic_parity_difference_c2 : 0.0630369804342377
+system_demographic_parity_c2 : 0.117017449352716
+model_equalized_odds_difference_c2 : 0.06546556519573243
+human_equalized_odds_difference_c2 : 0.02038274731205114
+system_equalized_odds_difference_c2 : 0.034175342783251475
+deferral rate : 0.4314556834241874
+model accuracy : 0.6966484958610943
+human accuracy : 0.6444579043004239
+combined accuracy : 0.704017767009893
+accuracy_group_0 : 0.7610921501706485
+accuracy_group_1 : 0.6655693550800539
+accuracy_gap : 0.09552279509059458
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8788020589611605
+Class 0 | Demographic 0 | FPR : 0.26795580110497236
+Class 0 | Demographic 0 | TNR : 0.7320441988950276
+Class 0 | Demographic 0 | FNR : 0.12119794103883949
+Class 0 | Demographic 1 | TPR : 0.7572741194486983
+Class 0 | Demographic 1 | FPR : 0.1508228936379268
+Class 0 | Demographic 1 | TNR : 0.8491771063620732
+Class 0 | Demographic 1 | FNR : 0.24272588055130168
+model_demographic_parity_difference_c0 : 0.2781545591829339
+human_demographic_parity_difference_c0 : 0.15090860157120178
+system_demographic_parity_c0 : 0.2851257206069145
+model_equalized_odds_difference_c0 : 0.12897180026898247
+human_equalized_odds_difference_c0 : 0.03216593313980712
+system_equalized_odds_difference_c0 : 0.12152793951246221
+Class 1 | Demographic 0 | TPR : 0.6196531791907515
+Class 1 | Demographic 0 | FPR : 0.1272264631043257
+Class 1 | Demographic 0 | TNR : 0.8727735368956743
+Class 1 | Demographic 0 | FNR : 0.38034682080924853
+Class 1 | Demographic 1 | TPR : 0.6763376036171816
+Class 1 | Demographic 1 | FPR : 0.24249193348225367
+Class 1 | Demographic 1 | TNR : 0.7575080665177464
+Class 1 | Demographic 1 | FNR : 0.3236623963828184
+model_demographic_parity_difference_c1 : 0.14820029741901192
+human_demographic_parity_difference_c1 : 0.06928620597810264
+system_demographic_parity_c1 : 0.15539811421062766
+model_equalized_odds_difference_c1 : 0.11950066849943505
+human_equalized_odds_difference_c1 : 0.036740267716741215
+system_equalized_odds_difference_c1 : 0.11526547037792798
+Class 2 | Demographic 0 | TPR : 0.6063348416289592
+Class 2 | Demographic 0 | FPR : 0.02798134576948701
+Class 2 | Demographic 0 | TNR : 0.972018654230513
+Class 2 | Demographic 0 | FNR : 0.3936651583710407
+Class 2 | Demographic 1 | TPR : 0.6563161609033169
+Class 2 | Demographic 1 | FPR : 0.07387011014052412
+Class 2 | Demographic 1 | TNR : 0.9261298898594759
+Class 2 | Demographic 1 | FNR : 0.34368383909668315
+model_demographic_parity_difference_c2 : 0.12995426176392197
+human_demographic_parity_difference_c2 : 0.08162239559309914
+system_demographic_parity_c2 : 0.1297276063962869
+model_equalized_odds_difference_c2 : 0.054290936059085054
+human_equalized_odds_difference_c2 : 0.03441404790568314
+system_equalized_odds_difference_c2 : 0.04998131927435767
+deferral rate : 0.3036543508984454
+model accuracy : 0.6947304663840097
+human accuracy : 0.6518271754492226
+combined accuracy : 0.7319806178073894
+accuracy_group_0 : 0.7589202606267452
+accuracy_group_1 : 0.6637737543019602
+accuracy_gap : 0.09514650632478505
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8811417875526439
+Class 0 | Demographic 0 | FPR : 0.285451197053407
+Class 0 | Demographic 0 | TNR : 0.714548802946593
+Class 0 | Demographic 0 | FNR : 0.1188582124473561
+Class 0 | Demographic 1 | TPR : 0.7664624808575804
+Class 0 | Demographic 1 | FPR : 0.15057725374600836
+Class 0 | Demographic 1 | TNR : 0.8494227462539916
+Class 0 | Demographic 1 | FNR : 0.2335375191424196
+model_demographic_parity_difference_c0 : 0.284326948464317
+human_demographic_parity_difference_c0 : 0.15090860157120178
+system_demographic_parity_c0 : 0.28913063088514124
+model_equalized_odds_difference_c0 : 0.13517318969506725
+human_equalized_odds_difference_c0 : 0.03216593313980712
+system_equalized_odds_difference_c0 : 0.13487394330739863
+Class 1 | Demographic 0 | TPR : 0.5953757225433526
+Class 1 | Demographic 0 | FPR : 0.12765055131467345
+Class 1 | Demographic 0 | TNR : 0.8723494486853266
+Class 1 | Demographic 0 | FNR : 0.4046242774566474
+Class 1 | Demographic 1 | TPR : 0.6812358703843255
+Class 1 | Demographic 1 | FPR : 0.23951352692975925
+Class 1 | Demographic 1 | TNR : 0.7604864730702408
+Class 1 | Demographic 1 | FNR : 0.31876412961567446
+model_demographic_parity_difference_c1 : 0.15539811421062766
+human_demographic_parity_difference_c1 : 0.06928620597810264
+system_demographic_parity_c1 : 0.1617531463056684
+model_equalized_odds_difference_c1 : 0.12253180977354386
+human_equalized_odds_difference_c1 : 0.036740267716741215
+system_equalized_odds_difference_c1 : 0.11186297561508579
+Class 2 | Demographic 0 | TPR : 0.6063348416289592
+Class 2 | Demographic 0 | FPR : 0.02664890073284477
+Class 2 | Demographic 0 | TNR : 0.9733510992671552
+Class 2 | Demographic 0 | FNR : 0.3936651583710407
+Class 2 | Demographic 1 | TPR : 0.6485532815808045
+Class 2 | Demographic 1 | FPR : 0.07140144322066085
+Class 2 | Demographic 1 | TNR : 0.9285985567793391
+Class 2 | Demographic 1 | FNR : 0.3514467184191955
+model_demographic_parity_difference_c2 : 0.1289288342536894
+human_demographic_parity_difference_c2 : 0.08162239559309914
+system_demographic_parity_c2 : 0.12737748457947282
+model_equalized_odds_difference_c2 : 0.052887209929843526
+human_equalized_odds_difference_c2 : 0.03441404790568314
+system_equalized_odds_difference_c2 : 0.04475254248781607
+deferral rate : 1.0
+model accuracy : 0.6991722188572582
+human accuracy : 0.6518271754492226
+combined accuracy : 0.732990107005855
+accuracy_group_0 : 0.7620229599751784
+accuracy_group_1 : 0.6688612898398922
+accuracy_gap : 0.0931616701352862
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8254562470753393
+Class 0 | Demographic 0 | FPR : 0.26887661141804786
+Class 0 | Demographic 0 | TNR : 0.7311233885819521
+Class 0 | Demographic 0 | FNR : 0.17454375292466073
+Class 0 | Demographic 1 | TPR : 0.7607197549770292
+Class 0 | Demographic 1 | FPR : 0.18201915991156964
+Class 0 | Demographic 1 | TNR : 0.8179808400884304
+Class 0 | Demographic 1 | FNR : 0.2392802450229709
+model_demographic_parity_difference_c0 : 0.28639980976177093
+human_demographic_parity_difference_c0 : 0.15090860157120178
+system_demographic_parity_c0 : 0.2297150758178918
+model_equalized_odds_difference_c0 : 0.1396550998777229
+human_equalized_odds_difference_c0 : 0.03216593313980712
+system_equalized_odds_difference_c0 : 0.08685745150647822
+Class 1 | Demographic 0 | TPR : 0.5791907514450867
+Class 1 | Demographic 0 | FPR : 0.1344359626802375
+Class 1 | Demographic 0 | TNR : 0.8655640373197625
+Class 1 | Demographic 0 | FNR : 0.4208092485549133
+Class 1 | Demographic 1 | TPR : 0.6168048229088169
+Class 1 | Demographic 1 | FPR : 0.18441300570861255
+Class 1 | Demographic 1 | TNR : 0.8155869942913875
+Class 1 | Demographic 1 | FNR : 0.3831951770911831
+model_demographic_parity_difference_c1 : 0.15185751780616547
+human_demographic_parity_difference_c1 : 0.06928620597810264
+system_demographic_parity_c1 : 0.10232668095341407
+model_equalized_odds_difference_c1 : 0.12190057199805227
+human_equalized_odds_difference_c1 : 0.036740267716741215
+system_equalized_odds_difference_c1 : 0.04997704302837505
+Class 2 | Demographic 0 | TPR : 0.6470588235294118
+Class 2 | Demographic 0 | FPR : 0.06862091938707528
+Class 2 | Demographic 0 | TNR : 0.9313790806129247
+Class 2 | Demographic 0 | FNR : 0.35294117647058826
+Class 2 | Demographic 1 | TPR : 0.6676076217360621
+Class 2 | Demographic 1 | FPR : 0.11944549943030763
+Class 2 | Demographic 1 | TNR : 0.8805545005696923
+Class 2 | Demographic 1 | FNR : 0.3323923782639379
+model_demographic_parity_difference_c2 : 0.13454229195560544
+human_demographic_parity_difference_c2 : 0.08162239559309914
+system_demographic_parity_c2 : 0.12738839486447778
+model_equalized_odds_difference_c2 : 0.06899414670596538
+human_equalized_odds_difference_c2 : 0.03441404790568314
+system_equalized_odds_difference_c2 : 0.050824580043232356
+deferral rate : 0.4195437108822936
+model accuracy : 0.6976579850595599
+human accuracy : 0.6518271754492226
+combined accuracy : 0.7044215626892792
+accuracy_group_0 : 0.7610921501706485
+accuracy_group_1 : 0.6670656890617986
+accuracy_gap : 0.09402646110884982
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.8745905474964905
+Class 0 | Demographic 0 | FPR : 0.2918968692449355
+Class 0 | Demographic 0 | TNR : 0.7081031307550645
+Class 0 | Demographic 0 | FNR : 0.1254094525035096
+Class 0 | Demographic 1 | TPR : 0.7580398162327718
+Class 0 | Demographic 1 | FPR : 0.15008597396217147
+Class 0 | Demographic 1 | TNR : 0.8499140260378285
+Class 0 | Demographic 1 | FNR : 0.24196018376722817
+model_demographic_parity_difference_c0 : 0.28429393904883393
+human_demographic_parity_difference_c0 : 0.13218019203865827
+system_demographic_parity_c0 : 0.2905499428974253
+model_equalized_odds_difference_c0 : 0.13554097096970757
+human_equalized_odds_difference_c0 : 0.011291970832637804
+system_equalized_odds_difference_c0 : 0.14181089528276405
+Class 1 | Demographic 0 | TPR : 0.5988439306358382
+Class 1 | Demographic 0 | FPR : 0.13358778625954199
+Class 1 | Demographic 0 | TNR : 0.8664122137404581
+Class 1 | Demographic 0 | FNR : 0.40115606936416187
+Class 1 | Demographic 1 | TPR : 0.6827430293896006
+Class 1 | Demographic 1 | FPR : 0.24323653512037727
+Class 1 | Demographic 1 | TNR : 0.7567634648796228
+Class 1 | Demographic 1 | FNR : 0.3172569706103994
+model_demographic_parity_difference_c1 : 0.14967903566451457
+human_demographic_parity_difference_c1 : 0.0613798242088453
+system_demographic_parity_c1 : 0.15932159197864704
+model_equalized_odds_difference_c1 : 0.12122828324166332
+human_equalized_odds_difference_c1 : 0.018465746980237063
+system_equalized_odds_difference_c1 : 0.10964874886083528
+Class 2 | Demographic 0 | TPR : 0.6018099547511312
+Class 2 | Demographic 0 | FPR : 0.023650899400399734
+Class 2 | Demographic 0 | TNR : 0.9763491005996002
+Class 2 | Demographic 0 | FNR : 0.39819004524886875
+Class 2 | Demographic 1 | TPR : 0.6541990119971771
+Class 2 | Demographic 1 | FPR : 0.07083175085453855
+Class 2 | Demographic 1 | TNR : 0.9291682491454615
+Class 2 | Demographic 1 | FNR : 0.3458009880028229
+model_demographic_parity_difference_c2 : 0.13461490338431933
+human_demographic_parity_difference_c2 : 0.07080036782981294
+system_demographic_parity_c2 : 0.13122835091877832
+model_equalized_odds_difference_c2 : 0.07322844451824484
+human_equalized_odds_difference_c2 : 0.02901739383120927
+system_equalized_odds_difference_c2 : 0.05238905724604592
+deferral rate : 0.30012113870381585
+model accuracy : 0.6948314153038563
+human accuracy : 0.6521300222087624
+combined accuracy : 0.7307692307692307
+accuracy_group_0 : 0.7589202606267452
+accuracy_group_1 : 0.6639233877001347
+accuracy_gap : 0.09499687292661052
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8769302760879738
+Class 0 | Demographic 0 | FPR : 0.2918968692449355
+Class 0 | Demographic 0 | TNR : 0.7081031307550645
+Class 0 | Demographic 0 | FNR : 0.12306972391202621
+Class 0 | Demographic 1 | TPR : 0.7588055130168453
+Class 0 | Demographic 1 | FPR : 0.1503316138540899
+Class 0 | Demographic 1 | TNR : 0.8496683861459101
+Class 0 | Demographic 1 | FNR : 0.24119448698315468
+model_demographic_parity_difference_c0 : 0.28320249270763515
+human_demographic_parity_difference_c0 : 0.13218019203865827
+system_demographic_parity_c0 : 0.29165239237711843
+model_equalized_odds_difference_c0 : 0.13185772971740556
+human_equalized_odds_difference_c0 : 0.011291970832637804
+system_equalized_odds_difference_c0 : 0.1415652553908456
+Class 1 | Demographic 0 | TPR : 0.5919075144508671
+Class 1 | Demographic 0 | FPR : 0.13146734520780323
+Class 1 | Demographic 0 | TNR : 0.8685326547921968
+Class 1 | Demographic 0 | FNR : 0.40809248554913297
+Class 1 | Demographic 1 | TPR : 0.6770911831198192
+Class 1 | Demographic 1 | FPR : 0.23752792256142963
+Class 1 | Demographic 1 | TNR : 0.7624720774385704
+Class 1 | Demographic 1 | FNR : 0.32290881688018086
+model_demographic_parity_difference_c1 : 0.15224480971046933
+human_demographic_parity_difference_c1 : 0.0613798242088453
+system_demographic_parity_c1 : 0.15704849213129352
+model_equalized_odds_difference_c1 : 0.12161132047111367
+human_equalized_odds_difference_c1 : 0.018465746980237063
+system_equalized_odds_difference_c1 : 0.1060605773536264
+Class 2 | Demographic 0 | TPR : 0.5927601809954751
+Class 2 | Demographic 0 | FPR : 0.02631578947368421
+Class 2 | Demographic 0 | TNR : 0.9736842105263158
+Class 2 | Demographic 0 | FNR : 0.4072398190045249
+Class 2 | Demographic 1 | TPR : 0.6647847565278758
+Class 2 | Demographic 1 | FPR : 0.07462969996202051
+Class 2 | Demographic 1 | TNR : 0.9253703000379795
+Class 2 | Demographic 1 | FNR : 0.3352152434721242
+model_demographic_parity_difference_c2 : 0.1309576829971658
+human_demographic_parity_difference_c2 : 0.07080036782981294
+system_demographic_parity_c2 : 0.13460390024582497
+model_equalized_odds_difference_c2 : 0.05329160228160338
+human_equalized_odds_difference_c2 : 0.02901739383120927
+system_equalized_odds_difference_c2 : 0.07202457553240071
+deferral rate : 1.0
+model accuracy : 0.6975570361397133
+human accuracy : 0.6521300222087624
+combined accuracy : 0.7306682818493843
+accuracy_group_0 : 0.7614024201054918
+accuracy_group_1 : 0.6667664222654497
+accuracy_gap : 0.09463599784004206
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8179691155825924
+Class 0 | Demographic 0 | FPR : 0.2532228360957643
+Class 0 | Demographic 0 | TNR : 0.7467771639042358
+Class 0 | Demographic 0 | FNR : 0.18203088441740758
+Class 0 | Demographic 1 | TPR : 0.7706738131699847
+Class 0 | Demographic 1 | FPR : 0.1854581183984279
+Class 0 | Demographic 1 | TNR : 0.8145418816015721
+Class 0 | Demographic 1 | FNR : 0.22932618683001532
+model_demographic_parity_difference_c0 : 0.28008219762295994
+human_demographic_parity_difference_c0 : 0.13218019203865827
+system_demographic_parity_c0 : 0.2134908320410836
+model_equalized_odds_difference_c0 : 0.1344966621474355
+human_equalized_odds_difference_c0 : 0.011291970832637804
+system_equalized_odds_difference_c0 : 0.06776471769733639
+Class 1 | Demographic 0 | TPR : 0.5872832369942197
+Class 1 | Demographic 0 | FPR : 0.14164546225614927
+Class 1 | Demographic 0 | TNR : 0.8583545377438507
+Class 1 | Demographic 0 | FNR : 0.41271676300578036
+Class 1 | Demographic 1 | TPR : 0.6269781461944235
+Class 1 | Demographic 1 | FPR : 0.1762223876892529
+Class 1 | Demographic 1 | TNR : 0.8237776123107471
+Class 1 | Demographic 1 | FNR : 0.3730218538055765
+model_demographic_parity_difference_c1 : 0.14913551776428852
+human_demographic_parity_difference_c1 : 0.0613798242088453
+system_demographic_parity_c1 : 0.0939824021281277
+model_equalized_odds_difference_c1 : 0.11505453149147055
+human_equalized_odds_difference_c1 : 0.018465746980237063
+system_equalized_odds_difference_c1 : 0.0396949092002038
+Class 2 | Demographic 0 | TPR : 0.6199095022624435
+Class 2 | Demographic 0 | FPR : 0.07361758827448368
+Class 2 | Demographic 0 | TNR : 0.9263824117255163
+Class 2 | Demographic 0 | FNR : 0.38009049773755654
+Class 2 | Demographic 1 | TPR : 0.6781933662667607
+Class 2 | Demographic 1 | FPR : 0.11014052411697683
+Class 2 | Demographic 1 | TNR : 0.8898594758830232
+Class 2 | Demographic 1 | FNR : 0.32180663373323926
+model_demographic_parity_difference_c2 : 0.13094667985867142
+human_demographic_parity_difference_c2 : 0.07080036782981294
+system_demographic_parity_c2 : 0.11950842991295588
+model_equalized_odds_difference_c2 : 0.05376476449552685
+human_equalized_odds_difference_c2 : 0.02901739383120927
+system_equalized_odds_difference_c2 : 0.05828386400431729
+deferral rate : 0.4167171411265899
+model accuracy : 0.6975570361397133
+human accuracy : 0.6521300222087624
+combined accuracy : 0.7097718554411467
+accuracy_group_0 : 0.7586099906919019
+accuracy_group_1 : 0.6681131228490199
+accuracy_gap : 0.09049686784288202
+
+Fairness Metrics (Cost Optimized):
+Class 0 | Demographic 0 | TPR : 0.883949461862424
+Class 0 | Demographic 0 | FPR : 0.27992633517495397
+Class 0 | Demographic 0 | TNR : 0.7200736648250461
+Class 0 | Demographic 0 | FNR : 0.11605053813757604
+Class 0 | Demographic 1 | TPR : 0.7695252679938744
+Class 0 | Demographic 1 | FPR : 0.1518054532056006
+Class 0 | Demographic 1 | TNR : 0.8481945467943994
+Class 0 | Demographic 1 | FNR : 0.2304747320061256
+model_demographic_parity_difference_c0 : 0.2836007877504334
+human_demographic_parity_difference_c0 : 0.11138992434715522
+system_demographic_parity_c0 : 0.28718539670887305
+model_equalized_odds_difference_c0 : 0.13910071371281302
+human_equalized_odds_difference_c0 : 0.028919008049117123
+system_equalized_odds_difference_c0 : 0.12812088196935337
+Class 1 | Demographic 0 | TPR : 0.6115606936416185
+Class 1 | Demographic 0 | FPR : 0.12595419847328243
+Class 1 | Demographic 0 | TNR : 0.8740458015267175
+Class 1 | Demographic 0 | FNR : 0.3884393063583815
+Class 1 | Demographic 1 | TPR : 0.6823662396382818
+Class 1 | Demographic 1 | FPR : 0.2328121121866468
+Class 1 | Demographic 1 | TNR : 0.7671878878133532
+Class 1 | Demographic 1 | FNR : 0.31763376036171814
+model_demographic_parity_difference_c1 : 0.154671953496744
+human_demographic_parity_difference_c1 : 0.06549917641276237
+system_demographic_parity_c1 : 0.15505924540104793
+model_equalized_odds_difference_c1 : 0.12282106130048245
+human_equalized_odds_difference_c1 : 0.0034659658948450744
+system_equalized_odds_difference_c1 : 0.10685791371336437
+Class 2 | Demographic 0 | TPR : 0.6153846153846154
+Class 2 | Demographic 0 | FPR : 0.022651565622918056
+Class 2 | Demographic 0 | TNR : 0.977348434377082
+Class 2 | Demographic 0 | FNR : 0.38461538461538464
+Class 2 | Demographic 1 | TPR : 0.6570218772053634
+Class 2 | Demographic 1 | FPR : 0.07121154576528675
+Class 2 | Demographic 1 | TNR : 0.9287884542347132
+Class 2 | Demographic 1 | FNR : 0.3429781227946366
+model_demographic_parity_difference_c2 : 0.1289288342536894
+human_demographic_parity_difference_c2 : 0.045890747934392906
+system_demographic_parity_c2 : 0.13212615130782518
+model_equalized_odds_difference_c2 : 0.05434078255969624
+human_equalized_odds_difference_c2 : 0.0761343351737307
+system_equalized_odds_difference_c2 : 0.048559980142368696
+deferral rate : 0.3008277811427418
+model accuracy : 0.6955380577427821
+human accuracy : 0.6577831617201696
+combined accuracy : 0.7375328083989501
+accuracy_group_0 : 0.7592305305615886
+accuracy_group_1 : 0.6648211880891816
+accuracy_gap : 0.09440934247240707
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+WARNING: All predictions deferred → model accuracy will be NaN!
+
+Fairness Metrics (All):
+Class 0 | Demographic 0 | TPR : 0.8764623303696771
+Class 0 | Demographic 0 | FPR : 0.26979742173112337
+Class 0 | Demographic 0 | TNR : 0.7302025782688766
+Class 0 | Demographic 0 | FNR : 0.12353766963032288
+Class 0 | Demographic 1 | TPR : 0.7626339969372129
+Class 0 | Demographic 1 | FPR : 0.14885777450257923
+Class 0 | Demographic 1 | TNR : 0.8511422254974208
+Class 0 | Demographic 1 | FNR : 0.23736600306278713
+model_demographic_parity_difference_c0 : 0.28009979335920204
+human_demographic_parity_difference_c0 : 0.11138992434715522
+system_demographic_parity_c0 : 0.2832971104133378
+model_equalized_odds_difference_c0 : 0.1386725403100491
+human_equalized_odds_difference_c0 : 0.028919008049117123
+system_equalized_odds_difference_c0 : 0.12093964722854414
+Class 1 | Demographic 0 | TPR : 0.623121387283237
+Class 1 | Demographic 0 | FPR : 0.1297709923664122
+Class 1 | Demographic 0 | TNR : 0.8702290076335878
+Class 1 | Demographic 0 | FNR : 0.376878612716763
+Class 1 | Demographic 1 | TPR : 0.6831198191409193
+Class 1 | Demographic 1 | FPR : 0.23355671382477042
+Class 1 | Demographic 1 | TNR : 0.7664432861752296
+Class 1 | Demographic 1 | FNR : 0.31688018085908065
+model_demographic_parity_difference_c1 : 0.14997389192011684
+human_demographic_parity_difference_c1 : 0.06549917641276237
+system_demographic_parity_c1 : 0.14991228362989728
+model_equalized_odds_difference_c1 : 0.11426698421179274
+human_equalized_odds_difference_c1 : 0.0034659658948450744
+system_equalized_odds_difference_c1 : 0.10378572145835821
+Class 2 | Demographic 0 | TPR : 0.6380090497737556
+Class 2 | Demographic 0 | FPR : 0.023650899400399734
+Class 2 | Demographic 0 | TNR : 0.9763491005996002
+Class 2 | Demographic 0 | FNR : 0.36199095022624433
+Class 2 | Demographic 1 | TPR : 0.662667607621736
+Class 2 | Demographic 1 | FPR : 0.0744398025066464
+Class 2 | Demographic 1 | TNR : 0.9255601974933536
+Class 2 | Demographic 1 | FNR : 0.33733239237826396
+model_demographic_parity_difference_c2 : 0.13012590143908517
+human_demographic_parity_difference_c2 : 0.045890747934392906
+system_demographic_parity_c2 : 0.13338482678344046
+model_equalized_odds_difference_c2 : 0.05391114114833685
+human_equalized_odds_difference_c2 : 0.0761343351737307
+system_equalized_odds_difference_c2 : 0.050788903106246674
+deferral rate : 1.0
+model accuracy : 0.6954371088229356
+human accuracy : 0.6577831617201696
+combined accuracy : 0.7366242681203311
+accuracy_group_0 : 0.7539559416692523
+accuracy_group_1 : 0.6672153224599731
+accuracy_gap : 0.08674061920927922
+
+Fairness Metrics (Fair):
+Class 0 | Demographic 0 | TPR : 0.8160973327094057
+Class 0 | Demographic 0 | FPR : 0.2440147329650092
+Class 0 | Demographic 0 | TNR : 0.7559852670349908
+Class 0 | Demographic 0 | FNR : 0.1839026672905943
+Class 0 | Demographic 1 | TPR : 0.7557427258805512
+Class 0 | Demographic 1 | FPR : 0.184966838614591
+Class 0 | Demographic 1 | TNR : 0.815033161385409
+Class 0 | Demographic 1 | FNR : 0.2442572741194487
+model_demographic_parity_difference_c0 : 0.28045407584802284
+human_demographic_parity_difference_c0 : 0.11138992434715522
+system_demographic_parity_c0 : 0.21528202227843052
+model_equalized_odds_difference_c0 : 0.13032214111129659
+human_equalized_odds_difference_c0 : 0.028919008049117123
+system_equalized_odds_difference_c0 : 0.06035460682885441
+Class 1 | Demographic 0 | TPR : 0.5976878612716763
+Class 1 | Demographic 0 | FPR : 0.1289228159457167
+Class 1 | Demographic 0 | TNR : 0.8710771840542832
+Class 1 | Demographic 0 | FNR : 0.4023121387283237
+Class 1 | Demographic 1 | TPR : 0.627731725697061
+Class 1 | Demographic 1 | FPR : 0.17721518987341772
+Class 1 | Demographic 1 | TNR : 0.8227848101265823
+Class 1 | Demographic 1 | FNR : 0.37226827430293896
+model_demographic_parity_difference_c1 : 0.1495910105565596
+human_demographic_parity_difference_c1 : 0.06549917641276237
+system_demographic_parity_c1 : 0.1013958711488841
+model_equalized_odds_difference_c1 : 0.11995601861062008
+human_equalized_odds_difference_c1 : 0.0034659658948450744
+system_equalized_odds_difference_c1 : 0.04829237392770103
+Class 2 | Demographic 0 | TPR : 0.6606334841628959
+Class 2 | Demographic 0 | FPR : 0.08227848101265822
+Class 2 | Demographic 0 | TNR : 0.9177215189873418
+Class 2 | Demographic 0 | FNR : 0.3393665158371041
+Class 2 | Demographic 1 | TPR : 0.68454481298518
+Class 2 | Demographic 1 | FPR : 0.11507785795670337
+Class 2 | Demographic 1 | TNR : 0.8849221420432967
+Class 2 | Demographic 1 | FNR : 0.31545518701482006
+model_demographic_parity_difference_c2 : 0.13086306529146316
+human_demographic_parity_difference_c2 : 0.045890747934392906
+system_demographic_parity_c2 : 0.11388615112954643
+model_equalized_odds_difference_c2 : 0.053817773845161586
+human_equalized_odds_difference_c2 : 0.0761343351737307
+system_equalized_odds_difference_c2 : 0.03279937694404515
+deferral rate : 0.42630728851201294
+model accuracy : 0.696042802342015
+human accuracy : 0.6577831617201696
+combined accuracy : 0.708358570563295
+accuracy_group_0 : 0.7601613403661185
+accuracy_group_1 : 0.6651204548855304
+accuracy_gap : 0.09504088548058809
+
+--- Cost optimized ---
+Class 0 | Demographic 0 | TPR: mean=0.8782873186710342, var=8.209305090754464e-06
+Class 0 | Demographic 0 | FPR: mean=0.27219152854511974, var=7.515711431953305e-05
+Class 0 | Demographic 0 | TNR: mean=0.7278084714548804, var=7.515711431953296e-05
+Class 0 | Demographic 0 | FNR: mean=0.12171268132896584, var=8.209305090754537e-06
+Class 0 | Demographic 1 | TPR: mean=0.7612174578866769, var=1.964223316112003e-05
+Class 0 | Demographic 1 | FPR: mean=0.15200196511913536, var=1.9405008410948866e-06
+Class 0 | Demographic 1 | TNR: mean=0.8479980348808647, var=1.9405008410949052e-06
+Class 0 | Demographic 1 | FNR: mean=0.23878254211332312, var=1.9642233161119934e-05
+model_demographic_parity_difference_c0: mean=0.28334266433523936, var=4.033511907077715e-06
+human_demographic_parity_difference_c0: mean=0.1273391035896277, var=0.00010865978992114652
+system_demographic_parity_c0: mean=0.2839522010664316, var=1.2019174591237038e-05
+model_equalized_odds_difference_c0: mean=0.13504098096906295, var=1.1608247135484655e-05
+human_equalized_odds_difference_c0: mean=0.015518851988526993, var=6.692735216843763e-05
+system_equalized_odds_difference_c0: mean=0.12265583548688064, var=5.9668027633423014e-05
+Class 1 | Demographic 0 | TPR: mean=0.6135260115606936, var=9.811219887066039e-05
+Class 1 | Demographic 0 | FPR: mean=0.13006785411365562, var=1.0756876955427943e-05
+Class 1 | Demographic 0 | TNR: mean=0.8699321458863443, var=1.0756876955427862e-05
+Class 1 | Demographic 0 | FNR: mean=0.38647398843930636, var=9.811219887066093e-05
+Class 1 | Demographic 1 | TPR: mean=0.6739638281838733, var=2.978683410858703e-05
+Class 1 | Demographic 1 | FPR: mean=0.23827252419955322, var=2.353254122306752e-05
+Class 1 | Demographic 1 | TNR: mean=0.7617274758004468, var=2.3532541223067337e-05
+Class 1 | Demographic 1 | FNR: mean=0.3260361718161266, var=2.978683410858691e-05
+model_demographic_parity_difference_c1: mean=0.15169996400534483, var=6.041866579185411e-06
+human_demographic_parity_difference_c1: mean=0.059086705149176334, var=4.551049242218915e-05
+system_demographic_parity_c1: mean=0.1514772781243818, var=3.2857002439912287e-05
+model_equalized_odds_difference_c1: mean=0.120389485391219, var=7.5754346579481375e-06
+human_equalized_odds_difference_c1: mean=0.014652265741677887, var=0.00012233965893620783
+system_equalized_odds_difference_c1: mean=0.1082046700858976, var=2.9384352255883064e-05
+Class 2 | Demographic 0 | TPR: mean=0.6076923076923076, var=0.00013124219405827086
+Class 2 | Demographic 0 | FPR: mean=0.0262491672218521, var=5.676872757712935e-06
+Class 2 | Demographic 0 | TNR: mean=0.973750832778148, var=5.676872757712945e-06
+Class 2 | Demographic 0 | FNR: mean=0.39230769230769236, var=0.00013124219405827076
+Class 2 | Demographic 1 | TPR: mean=0.6601270289343684, var=3.856786904056933e-05
+Class 2 | Demographic 1 | FPR: mean=0.07440182301557159, var=6.006327414946777e-06
+Class 2 | Demographic 1 | TNR: mean=0.9255981769844285, var=6.0063274149467695e-06
+Class 2 | Demographic 1 | FNR: mean=0.33987297106563163, var=3.8567869040569486e-05
+model_demographic_parity_difference_c2: mean=0.1316427003298945, var=2.9350262008285045e-06
+human_demographic_parity_difference_c2: mean=0.06825239844045136, var=8.933269000413935e-05
+system_demographic_parity_c2: mean=0.13247492294204982, var=8.916016995960934e-06
+model_equalized_odds_difference_c2: mean=0.062245764701827244, var=6.480035912302565e-05
+human_equalized_odds_difference_c2: mean=0.03157457760803685, var=0.0003284925655733655
+system_equalized_odds_difference_c2: mean=0.05487467504408975, var=0.00010032244149722278
+deferral rate: mean=0.30566323440339194, var=2.4951788891086027e-05
+model accuracy: mean=0.6970018170805572, var=2.6969646312731706e-06
+human accuracy: mean=0.6482939632545932, var=3.4130640253391035e-05
+combined accuracy: mean=0.7323137492428831, var=5.87401240548696e-06
+accuracy_group_0: mean=0.7599751784052124, var=2.4875504549646813e-06
+accuracy_group_1: mean=0.6666317522070926, var=4.354661022138753e-06
+accuracy_gap: mean=0.0933434261981199, var=4.784578151911808e-06
+
+--- All combination ---
+Class 0 | Demographic 0 | TPR: mean=0.877585400093589, var=5.264115614343508e-06
+Class 0 | Demographic 0 | FPR: mean=0.2744935543278085, var=8.198264196249609e-05
+Class 0 | Demographic 0 | TNR: mean=0.7255064456721915, var=8.198264196249597e-05
+Class 0 | Demographic 0 | FNR: mean=0.12241459990641086, var=5.264115614343535e-06
+Class 0 | Demographic 1 | TPR: mean=0.7618683001531394, var=9.351350463991252e-06
+Class 0 | Demographic 1 | FPR: mean=0.15325472856791947, var=8.609765703228524e-06
+Class 0 | Demographic 1 | TNR: mean=0.8467452714320804, var=8.609765703228512e-06
+Class 0 | Demographic 1 | FNR: mean=0.23813169984686064, var=9.35135046399115e-06
+model_demographic_parity_difference_c0: mean=0.2840217344019718, var=7.859902905969945e-06
+human_demographic_parity_difference_c0: mean=0.1273391035896277, var=0.00010865978992114652
+system_demographic_parity_c0: mean=0.28324496389368853, var=1.587226626252034e-05
+model_equalized_odds_difference_c0: mean=0.13555903469570046, var=2.6497198977390073e-05
+human_equalized_odds_difference_c0: mean=0.015518851988526993, var=6.692735216843763e-05
+system_equalized_odds_difference_c0: mean=0.1238880545853048, var=7.028293590454726e-05
+Class 1 | Demographic 0 | TPR: mean=0.6114450867052021, var=0.0001201376591265996
+Class 1 | Demographic 0 | FPR: mean=0.129813401187447, var=7.641860923526705e-06
+Class 1 | Demographic 0 | TNR: mean=0.870186598812553, var=7.641860923526762e-06
+Class 1 | Demographic 0 | FNR: mean=0.3885549132947977, var=0.00012013765912659996
+Class 1 | Demographic 1 | TPR: mean=0.6714016578749058, var=5.370602676201012e-05
+Class 1 | Demographic 1 | FPR: mean=0.2367336808140978, var=7.303712270698635e-06
+Class 1 | Demographic 1 | TNR: mean=0.7632663191859022, var=7.303712270698699e-06
+Class 1 | Demographic 1 | FNR: mean=0.32859834212509414, var=5.370602676201024e-05
+model_demographic_parity_difference_c1: mean=0.15310167563871244, var=4.312127747856219e-06
+human_demographic_parity_difference_c1: mean=0.059086705149176334, var=4.551049242218915e-05
+system_demographic_parity_c1: mean=0.1502766917917376, var=2.7647398895105777e-05
+model_equalized_odds_difference_c1: mean=0.12160468915881487, var=9.912147581013151e-06
+human_equalized_odds_difference_c1: mean=0.014652265741677887, var=0.00012233965893620783
+system_equalized_odds_difference_c1: mean=0.10692027962665081, var=8.710034454835699e-06
+Class 2 | Demographic 0 | TPR: mean=0.6095022624434389, var=0.0003155136053725353
+Class 2 | Demographic 0 | FPR: mean=0.026582278481012654, var=3.302262182750918e-06
+Class 2 | Demographic 0 | TNR: mean=0.9734177215189872, var=3.3022621827509573e-06
+Class 2 | Demographic 0 | FNR: mean=0.3904977375565611, var=0.00031551360537253537
+Class 2 | Demographic 1 | TPR: mean=0.6623147494707127, var=4.793591677627612e-05
+Class 2 | Demographic 1 | FPR: mean=0.0749905051272313, var=3.2415272053888526e-06
+Class 2 | Demographic 1 | TNR: mean=0.9250094948727687, var=3.2415272053888043e-06
+Class 2 | Demographic 1 | FNR: mean=0.3376852505292872, var=4.793591677627598e-05
+model_demographic_parity_difference_c2: mean=0.13092005876325932, var=2.3498002102469775e-06
+human_demographic_parity_difference_c2: mean=0.06825239844045136, var=8.933269000413935e-05
+system_demographic_parity_c2: mean=0.13296827210195092, var=8.142010524720485e-06
+model_equalized_odds_difference_c2: mean=0.05529446055677149, var=8.36651558815928e-06
+human_equalized_odds_difference_c2: mean=0.03157457760803685, var=0.0003284925655733655
+system_equalized_odds_difference_c2: mean=0.057784012457922994, var=0.00011027684706959593
+deferral rate: mean=1.0, var=0.0
+model accuracy: mean=0.6979507369271148, var=1.4439180752128275e-06
+human accuracy: mean=0.6482939632545932, var=3.4130640253391035e-05
+combined accuracy: mean=0.731819099535635, var=4.8328301784808976e-06
+accuracy_group_0: mean=0.7609059882097424, var=7.474203456790198e-06
+accuracy_group_1: mean=0.6675894059554092, var=2.069969723362202e-06
+accuracy_gap: mean=0.09331658225433323, var=1.0862692729688567e-05
+
+--- Fair combination ---
+Class 0 | Demographic 0 | TPR: mean=0.8174543752924661, var=2.0033857635453147e-05
+Class 0 | Demographic 0 | FPR: mean=0.2567219152854512, var=7.644590960118572e-05
+Class 0 | Demographic 0 | TNR: mean=0.7432780847145487, var=7.644590960118584e-05
+Class 0 | Demographic 0 | FNR: mean=0.18254562470753394, var=2.003385763545302e-05
+Class 0 | Demographic 1 | TPR: mean=0.7584992343032159, var=6.495524250191735e-05
+Class 0 | Demographic 1 | FPR: mean=0.1850159665929747, var=8.239887899873063e-06
+Class 0 | Demographic 1 | TNR: mean=0.8149840334070253, var=8.239887899872983e-06
+Class 0 | Demographic 1 | FNR: mean=0.24150076569678408, var=6.495524250191726e-05
+model_demographic_parity_difference_c0: mean=0.28311535435050394, var=4.817708628478623e-06
+human_demographic_parity_difference_c0: mean=0.1273391035896277, var=0.00010865978992114652
+system_demographic_parity_c0: mean=0.21935624304382279, var=3.676044689505491e-05
+model_equalized_odds_difference_c0: mean=0.13506226565885338, var=8.28073667305688e-06
+human_equalized_odds_difference_c0: mean=0.015518851988526993, var=6.692735216843763e-05
+system_equalized_odds_difference_c0: mean=0.07399543500970591, var=8.618383768177118e-05
+Class 1 | Demographic 0 | TPR: mean=0.5861271676300579, var=0.0001742791272678674
+Class 1 | Demographic 0 | FPR: mean=0.13685326547921967, var=1.863434244025896e-05
+Class 1 | Demographic 0 | TNR: mean=0.8631467345207803, var=1.863434244025895e-05
+Class 1 | Demographic 0 | FNR: mean=0.41387283236994216, var=0.00017427912726786715
+Class 1 | Demographic 1 | TPR: mean=0.6169555388093444, var=5.313104616937981e-05
+Class 1 | Demographic 1 | FPR: mean=0.179126334077935, var=2.511020714118988e-05
+Class 1 | Demographic 1 | TNR: mean=0.820873665922065, var=2.5110207141189924e-05
+Class 1 | Demographic 1 | FNR: mean=0.3830444611906556, var=5.313104616937992e-05
+model_demographic_parity_difference_c1: mean=0.15077157767688834, var=3.872202897787705e-06
+human_demographic_parity_difference_c1: mean=0.059086705149176334, var=4.551049242218915e-05
+system_demographic_parity_c1: mean=0.09556918469390081, var=3.2580602529340186e-05
+model_equalized_odds_difference_c1: mean=0.11926749892793784, var=8.161653997609945e-06
+human_equalized_odds_difference_c1: mean=0.014652265741677887, var=0.00012233965893620783
+system_equalized_odds_difference_c1: mean=0.04396027867590927, var=4.172863658227077e-05
+Class 2 | Demographic 0 | TPR: mean=0.6366515837104072, var=0.0002458999610982574
+Class 2 | Demographic 0 | FPR: mean=0.07558294470353098, var=2.2957158030555693e-05
+Class 2 | Demographic 0 | TNR: mean=0.9244170552964691, var=2.2957158030555754e-05
+Class 2 | Demographic 0 | FNR: mean=0.36334841628959275, var=0.00024589996109825735
+Class 2 | Demographic 1 | TPR: mean=0.6836273817925195, var=7.620441169805705e-05
+Class 2 | Demographic 1 | FPR: mean=0.11788834029624003, var=1.4841283086548373e-05
+Class 2 | Demographic 1 | TNR: mean=0.8821116597037599, var=1.4841283086548432e-05
+Class 2 | Demographic 1 | FNR: mean=0.31637261820748064, var=7.620441169805701e-05
+model_demographic_parity_difference_c2: mean=0.13234377667361566, var=3.5511293772464035e-06
+human_demographic_parity_difference_c2: mean=0.06825239844045136, var=8.933269000413935e-05
+system_demographic_parity_c2: mean=0.12378705834992199, var=2.7636901448352786e-05
+model_equalized_odds_difference_c2: mean=0.0638537339538887, var=7.931711936933127e-05
+human_equalized_odds_difference_c2: mean=0.03157457760803685, var=0.0003284925655733655
+system_equalized_odds_difference_c2: mean=0.05093057965117802, var=0.00013816352373248475
+deferral rate: mean=0.4224409448818898, var=2.2393111847367784e-05
+model accuracy: mean=0.6972541893801737, var=1.6019755905389157e-06
+human accuracy: mean=0.6482939632545932, var=3.4130640253391035e-05
+combined accuracy: mean=0.7048152634766808, var=1.2229738463421529e-05
+accuracy_group_0: mean=0.7599131244182439, var=5.849209196735993e-06
+accuracy_group_1: mean=0.6670357623821637, var=2.0813887018253693e-06
+accuracy_gap: mean=0.09287736203608017, var=7.769032826998489e-06
